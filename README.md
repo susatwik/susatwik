@@ -1,125 +1,124 @@
-<h1 align="center">Hi 👋, I'm Susatwik Manuri</h1>
+<h1 align="center">Susatwik Manuri</h1>
 
 <h3 align="center">
-AI Systems Engineer • Full-Stack Developer • Building Intelligent Software Products
+AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent Products
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=850&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Applications;Engineering+Intelligent+Automation+Systems;Creating+Scalable+Real-World+Products" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Designing+Scalable+Backend+Architectures;Engineering+Real-World+Software+Products" />
 </p>
 
 <p align="center">
   <a href="https://github.com/susatwik">
-    <img src="https://img.shields.io/github/followers/susatwik?label=Followers&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# About Me
 
-# 💫 About Me
+Computer Science undergraduate focused on building practical AI-powered systems with scalable backend architecture and modern full-stack engineering.
 
-🚀 Computer Science undergraduate focused on building practical AI-powered software systems instead of tutorial-level projects.
+My work primarily combines:
 
-⚡ My work combines:
-- Full-stack engineering
 - AI/LLM integrations
-- Intelligent automation systems
-- Backend architecture
-- Scalable APIs
-- Modern web technologies
+- scalable backend systems
+- intelligent automation workflows
+- full-stack application engineering
+- API infrastructure
+- modern frontend systems
 
-🧠 Currently exploring:
+Currently focused on:
 - RAG systems
 - AI workflow orchestration
-- scalable backend systems
+- scalable APIs
 - intelligent automation
-- applied GenAI products
-
-🌱 Building products with real-world impact.
-
----
-
-# 🚀 Current Focus
-
-### Currently Building:
-- AI-powered recruitment systems
-- voice-first learning platforms
-- intelligent automation workflows
-- scalable full-stack applications
-- interactive EdTech systems
+- distributed backend systems
+- AI-powered products
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
-## 🚀 HireScale AI
+## HireScale AI
 
-AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation, and automated interview workflows.
+AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation pipelines, and interview automation workflows.
 
-### Highlights
-✅ Resume analysis pipeline  
-✅ ATS scoring engine  
-✅ Recruiter workflow automation  
-✅ Candidate evaluation dashboard  
+### Core Features
+- Resume evaluation engine
+- ATS scoring workflows
+- recruiter dashboard systems
+- automated candidate filtering
+- scalable backend workflows
+
+### Architecture Focus
+- REST API architecture
+- AI inference workflows
+- scalable database models
+- optimized backend processing
 
 ### Stack
 `React` `TypeScript` `Node.js` `MongoDB` `OpenAI APIs`
 
 ---
 
-## ⚡ RecoveryMate
+## RecoveryMate
 
-Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, communication systems, and vector search.
+Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, vector search, and communication automation.
 
-### Highlights
-✅ OCR extraction pipelines  
-✅ AI invoice parsing  
-✅ Vector search integration  
-✅ Twilio workflow automation  
+### Core Features
+- OCR extraction pipeline
+- AI invoice parsing
+- semantic vector search
+- Twilio communication workflows
+- intelligent recovery automation
+
+### Engineering Concepts
+- queue-based processing
+- AI extraction workflows
+- vector database integration
+- backend orchestration
 
 ### Stack
 `Node.js` `OCR` `Gemini API` `Pinecone` `Twilio`
 
 ---
 
-## 🧠 Learn Spark Academy
+## Learn Spark Academy
 
-Voice-first gamified EdTech platform designed for interactive AI-assisted learning experiences.
+Voice-first AI-powered EdTech platform focused on interactive learning and gamified educational experiences.
 
-### Highlights
-✅ Voice interaction systems  
-✅ Gamified learning workflows  
-✅ Adaptive learning concepts  
-✅ AI-assisted education  
+### Core Features
+- voice interaction systems
+- gamified learning workflows
+- adaptive learning concepts
+- interactive student engagement
+- AI-assisted educational systems
 
 ### Stack
 `React` `Node.js` `ElevenLabs API`
 
 ---
 
-## 🐶 Pawdentify
+## Pawdentify
 
 CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
-### Highlights
-✅ Image inference pipeline  
-✅ CNN classification model  
-✅ Flask deployment API  
+### Core Features
+- image inference pipeline
+- TensorFlow CNN integration
+- Flask API deployment
+- model prediction workflows
 
 ### Stack
 `Python` `TensorFlow` `Flask`
 
 ---
 
-# 🛠️ Tech Stack
+# Technical Expertise
 
-## 🎨 Frontend
+## Frontend Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
@@ -127,7 +126,7 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 ---
 
-## ⚙️ Backend
+## Backend Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
@@ -135,44 +134,76 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 ---
 
-## 🤖 AI / ML
+## AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square"/>
 </p>
 
 ---
 
-## ⚡ DevOps & Tools
+## DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# Algorithms & Problem Solving
+
+- Solved 1800+ competitive programming problems
+- Strong understanding of:
+  - Data Structures
+  - Algorithms
+  - Dynamic Programming
+  - Graph Algorithms
+  - Sliding Window
+  - Binary Search
+  - Trees & Recursion
+  - Greedy Algorithms
+  - Backtracking
+  - System Design Fundamentals
+
+### Competitive Programming
+
+- CodeChef 3★ Programmer
+- Regular problem-solving practice
+- Performance-focused coding approach
+
+---
+
+# Engineering Principles
+
+Focused on:
+- scalable system design
+- clean architecture
+- backend optimization
+- maintainable codebases
+- API performance
+- practical AI integrations
+- real-world product engineering
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=susatwik&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=susatwik&theme=tokyo-night&hide_border=true"/>
@@ -180,62 +211,36 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=susatwik&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/susatwik/susatwik/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🏅 Achievements
-
-🏆 CodeChef 3★ Programmer  
-🧠 Solved 1800+ competitive programming problems  
-💼 Completed 3 engineering internships  
-🚀 Built & deployed 7+ applications  
-🥈 Prayatna 2.0 Hackathon Runner-Up  
-
----
-
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
 <a href="https://susatwik-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/susatwik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/susatwik">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Engineering Philosophy
+# Current Objective
 
-> Build systems that solve real-world problems.
->
-> Focus on architecture, scalability, automation, and practical impact — not tutorial clones.
+Building scalable AI-powered systems with strong engineering foundations, production-grade backend workflows, and practical real-world applications.
 
 ---
 
-# ⚡ Current Goal
+# Philosophy
 
-Building scalable AI-powered systems with strong engineering foundations, production-grade workflows, and meaningful real-world impact.
+Build useful systems.
 
----
+Focus on engineering quality, architecture, scalability, performance, and practical impact instead of trend-driven projects.
+
+```
