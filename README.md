@@ -64,24 +64,69 @@ Build practical systems with:
 
 ---
 
-# Tech Focus
+# Tech Stack
 
-<p align="left">
+<div align="center">
+
+## Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
+</p>
+
+---
+
+## Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge"/>
+</p>
+
+---
+
+## DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux" />
+</p>
+
+---
+
+## Core Engineering Focus
+
+<p>
   <img src="https://img.shields.io/badge/AI%20Systems-0A66C2?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/Backend%20Architecture-181717?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/LLM%20Integrations-FF6B6B?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/Scalable%20APIs-4CAF50?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/System%20Design-6A1B9A?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/Automation%20Workflows-FF9800?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineering-20232A?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-121D33?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Infrastructure-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance%20Optimization-D92C20?style=flat-square" />
-</p>
+</div>
 
 ---
 
@@ -147,47 +192,6 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 ### Stack
 `Python` `TensorFlow` `Flask`
-
----
-
-# Technical Expertise
-
-## Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
-</p>
-
----
-
-## Backend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge"/>
-</p>
-
----
-
-## DevOps & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux" />
-</p>
 
 ---
 
