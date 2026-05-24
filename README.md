@@ -1,4 +1,4 @@
-<h1 align="center">Susatwik Manuri</h1>
+<h1 align="center">Hi 👋, I'm Susatwik Manuri</h1>
 
 <h3 align="center">
 AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent Products
@@ -10,32 +10,58 @@ AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent P
 
 <p align="center">
   <a href="https://github.com/susatwik">
-    <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  
+  <a href="https://github.com/susatwik?tab=followers">
+    <img src="https://img.shields.io/github/followers/susatwik?label=Followers&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 # About Me
 
 Computer Science undergraduate focused on building practical AI-powered systems with scalable backend architecture and modern full-stack engineering.
 
-My work primarily combines:
-
+### Core Interests
 - AI/LLM integrations
-- scalable backend systems
-- intelligent automation workflows
-- full-stack application engineering
-- API infrastructure
-- modern frontend systems
+- intelligent automation systems
+- scalable backend engineering
+- workflow orchestration
+- distributed systems
+- modern frontend architectures
+- AI-powered product engineering
 
-Currently focused on:
+### Currently Exploring
 - RAG systems
-- AI workflow orchestration
+- AI infrastructure
+- backend optimization
+- vector databases
 - scalable APIs
-- intelligent automation
-- distributed backend systems
-- AI-powered products
+- system design
+
+### Engineering Approach
+Build practical systems with:
+- performance
+- scalability
+- maintainability
+- automation
+- real-world usability
+
+</td>
+
+<td width="40%">
+
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,20 +69,20 @@ Currently focused on:
 
 ## HireScale AI
 
-AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation pipelines, and interview automation workflows.
+AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation pipelines, and interview workflow automation.
 
-### Core Features
-- Resume evaluation engine
+### Key Features
+- Resume analysis engine
 - ATS scoring workflows
 - recruiter dashboard systems
-- automated candidate filtering
-- scalable backend workflows
+- AI evaluation pipelines
+- scalable backend processing
 
-### Architecture Focus
-- REST API architecture
-- AI inference workflows
-- scalable database models
-- optimized backend processing
+### Architecture
+- REST APIs
+- modular backend architecture
+- AI inference orchestration
+- optimized database workflows
 
 ### Stack
 `React` `TypeScript` `Node.js` `MongoDB` `OpenAI APIs`
@@ -65,20 +91,14 @@ AI-powered recruitment intelligence platform with ATS scoring, candidate evaluat
 
 ## RecoveryMate
 
-Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, vector search, and communication automation.
+Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, communication automation, and vector search.
 
-### Core Features
+### Key Features
 - OCR extraction pipeline
-- AI invoice parsing
-- semantic vector search
-- Twilio communication workflows
-- intelligent recovery automation
-
-### Engineering Concepts
-- queue-based processing
-- AI extraction workflows
-- vector database integration
-- backend orchestration
+- semantic invoice parsing
+- vector database search
+- Twilio communication automation
+- backend orchestration systems
 
 ### Stack
 `Node.js` `OCR` `Gemini API` `Pinecone` `Twilio`
@@ -87,14 +107,14 @@ Invoice recovery automation platform integrating OCR extraction, AI parsing work
 
 ## Learn Spark Academy
 
-Voice-first AI-powered EdTech platform focused on interactive learning and gamified educational experiences.
+Voice-first AI-powered EdTech platform focused on gamified and interactive learning experiences.
 
-### Core Features
-- voice interaction systems
-- gamified learning workflows
-- adaptive learning concepts
-- interactive student engagement
-- AI-assisted educational systems
+### Key Features
+- voice interaction workflows
+- gamified learning systems
+- adaptive educational concepts
+- AI-assisted engagement
+- interactive learning UX
 
 ### Stack
 `React` `Node.js` `ElevenLabs API`
@@ -105,11 +125,11 @@ Voice-first AI-powered EdTech platform focused on interactive learning and gamif
 
 CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
-### Core Features
-- image inference pipeline
-- TensorFlow CNN integration
+### Key Features
+- TensorFlow inference pipeline
+- CNN image classification
 - Flask API deployment
-- model prediction workflows
+- prediction workflows
 
 ### Stack
 `Python` `TensorFlow` `Flask`
@@ -141,10 +161,10 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge"/>
 </p>
 
 ---
@@ -159,24 +179,38 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 # Algorithms & Problem Solving
 
-- Solved 1800+ competitive programming problems
-- Strong understanding of:
-  - Data Structures
-  - Algorithms
-  - Dynamic Programming
-  - Graph Algorithms
-  - Sliding Window
-  - Binary Search
-  - Trees & Recursion
-  - Greedy Algorithms
-  - Backtracking
-  - System Design Fundamentals
-
 ### Competitive Programming
+- CodeChef 4★ Programmer
+- Solved 1800+ algorithmic problems
+- Strong DSA & optimization fundamentals
 
-- CodeChef 3★ Programmer
-- Regular problem-solving practice
-- Performance-focused coding approach
+### Core Areas
+- Dynamic Programming
+- Graph Algorithms
+- Trees & Recursion
+- Binary Search
+- Sliding Window
+- Greedy Algorithms
+- Backtracking
+- System Design Fundamentals
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susatwik&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
@@ -184,30 +218,12 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 Focused on:
 - scalable system design
-- clean architecture
+- maintainable architectures
 - backend optimization
-- maintainable codebases
 - API performance
 - practical AI integrations
-- real-world product engineering
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susatwik&theme=tokyo-night&hide_border=true"/>
-</p>
+- engineering efficiency
+- production-grade systems
 
 ---
 
@@ -216,15 +232,15 @@ Focused on:
 <p align="left">
 
 <a href="https://susatwik-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/susatwik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/susatwik">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -233,14 +249,22 @@ Focused on:
 
 # Current Objective
 
-Building scalable AI-powered systems with strong engineering foundations, production-grade backend workflows, and practical real-world applications.
+Building scalable AI-powered systems with strong engineering foundations, production-grade workflows, and practical real-world applications.
 
 ---
 
 # Philosophy
 
-Build useful systems.
+Build systems that solve real problems.
 
-Focus on engineering quality, architecture, scalability, performance, and practical impact instead of trend-driven projects.
+Prioritize:
+- engineering quality
+- scalability
+- architecture
+- maintainability
+- performance
+- practical impact
 
-```
+instead of tutorial-clone projects.
+
+---
