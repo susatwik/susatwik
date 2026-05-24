@@ -5,7 +5,7 @@ AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent P
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Engineering+Scalable+Backend+Architectures;Designing+Real-World+Software+Products;Focused+on+AI+Infrastructure+and+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Engineering+Scalable+Backend+Architectures;Designing+Real-World+Software+Products" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Build practical systems with:
 
 <td width="40%">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ Build practical systems with:
 ## Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,vite" />
 </p>
 
 ---
@@ -136,6 +136,12 @@ Build practical systems with:
 
 AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation pipelines, and interview workflow automation.
 
+### Live Demo
+🔗 https://stateful-interview-system.vercel.app
+
+### Repository
+🔗 https://github.com/susatwik/stateful-interview-system
+
 ### Key Features
 - Resume analysis engine
 - ATS scoring workflows
@@ -152,6 +158,12 @@ AI-powered recruitment intelligence platform with ATS scoring, candidate evaluat
 
 Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, communication automation, and vector search.
 
+### Live Demo
+🔗 https://recovermate-web.onrender.com
+
+### Repository
+🔗 https://github.com/susatwik/RecoverMate
+
 ### Key Features
 - OCR extraction pipeline
 - semantic invoice parsing
@@ -164,25 +176,36 @@ Invoice recovery automation platform integrating OCR extraction, AI parsing work
 
 ---
 
-## 🧠 Learn Spark Academy
+## 🍽️ RestaurantFlow
 
-Voice-first AI-powered EdTech platform focused on gamified and interactive learning experiences.
+Multi-role restaurant operations workflow platform with real-time order state synchronization.
+
+### Live Demo
+🔗 https://restaurant-ordering-kitchen.vercel.app
+
+### Repository
+🔗 https://github.com/susatwik/Restaurant-Ordering-Kitchen-Management-Platform
 
 ### Key Features
-- voice interaction workflows
-- gamified learning systems
-- adaptive educational concepts
-- AI-assisted engagement
-- interactive learning UX
+- kitchen workflow management
+- multi-role dashboard systems
+- real-time state synchronization
+- order lifecycle orchestration
 
 ### Stack
-`React` `Node.js` `ElevenLabs API`
+`React` `Vite` `Framer Motion` `Context API`
 
 ---
 
 ## 🐶 Pawdentify
 
 CNN-based dog breed classification API deployed using Flask and TensorFlow.
+
+### Live Demo
+🔗 https://pawdentify-frontend.vercel.app
+
+### Repository
+🔗 https://github.com/susatwik/pawdentify
 
 ### Key Features
 - TensorFlow inference pipeline
@@ -198,9 +221,24 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 # Algorithms & Problem Solving
 
 ### Competitive Programming
+
 - CodeChef 4★ Programmer
 - Solved 1800+ algorithmic problems
 - Strong DSA & optimization fundamentals
+
+### Coding Profiles
+
+<p align="left">
+
+<a href="https://www.codechef.com/users/susatwik">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/susatwik/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ### Core Areas
 - Dynamic Programming
