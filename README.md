@@ -5,14 +5,14 @@ AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent P
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Designing+Scalable+Backend+Architectures;Engineering+Real-World+Software+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Engineering+Scalable+Backend+Architectures;Designing+Real-World+Software+Products;Focused+on+AI+Infrastructure+and+Automation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/susatwik">
     <img src="https://komarev.com/ghpvc/?username=susatwik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-  
+
   <a href="https://github.com/susatwik?tab=followers">
     <img src="https://img.shields.io/github/followers/susatwik?label=Followers&style=for-the-badge" />
   </a>
@@ -34,30 +34,29 @@ Computer Science undergraduate focused on building practical AI-powered systems 
 - scalable backend engineering
 - workflow orchestration
 - distributed systems
-- modern frontend architectures
 - AI-powered product engineering
 
 ### Currently Exploring
 - RAG systems
-- AI infrastructure
-- backend optimization
 - vector databases
+- backend optimization
 - scalable APIs
+- AI infrastructure
 - system design
 
-### Engineering Approach
+### Engineering Focus
 Build practical systems with:
-- performance
 - scalability
+- performance
 - maintainability
 - automation
-- real-world usability
+- production-grade architecture
 
 </td>
 
 <td width="40%">
 
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
 </tr>
@@ -67,7 +66,7 @@ Build practical systems with:
 
 # Featured Projects
 
-## HireScale AI
+## 🚀 HireScale AI
 
 AI-powered recruitment intelligence platform with ATS scoring, candidate evaluation pipelines, and interview workflow automation.
 
@@ -78,18 +77,12 @@ AI-powered recruitment intelligence platform with ATS scoring, candidate evaluat
 - AI evaluation pipelines
 - scalable backend processing
 
-### Architecture
-- REST APIs
-- modular backend architecture
-- AI inference orchestration
-- optimized database workflows
-
 ### Stack
 `React` `TypeScript` `Node.js` `MongoDB` `OpenAI APIs`
 
 ---
 
-## RecoveryMate
+## ⚡ RecoveryMate
 
 Invoice recovery automation platform integrating OCR extraction, AI parsing workflows, communication automation, and vector search.
 
@@ -105,7 +98,7 @@ Invoice recovery automation platform integrating OCR extraction, AI parsing work
 
 ---
 
-## Learn Spark Academy
+## 🧠 Learn Spark Academy
 
 Voice-first AI-powered EdTech platform focused on gamified and interactive learning experiences.
 
@@ -121,7 +114,7 @@ Voice-first AI-powered EdTech platform focused on gamified and interactive learn
 
 ---
 
-## Pawdentify
+## 🐶 Pawdentify
 
 CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
@@ -200,7 +193,7 @@ CNN-based dog breed classification API deployed using Flask and TensorFlow.
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
