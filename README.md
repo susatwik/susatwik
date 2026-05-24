@@ -64,6 +64,27 @@ Build practical systems with:
 
 ---
 
+# Tech Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Systems-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Integrations-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scalable%20APIs-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation%20Workflows-FF9800?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineering-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-121D33?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-D92C20?style=flat-square" />
+</p>
+
+---
+
 # Featured Projects
 
 ## 🚀 HireScale AI
