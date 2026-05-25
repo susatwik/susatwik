@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susatwik Manuri</h1>
 
-<h2 align="center">
+<h3 align="center">
 AI Systems Engineer • Full-Stack Developer • Building Scalable Intelligent Products
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Systems;Engineering+Scalable+Backend+Architectures;Designing+Real-World+Software+Products" />
