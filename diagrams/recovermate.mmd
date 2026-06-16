@@ -1,0 +1,6 @@
+flowchart LR
+  UI[Vite React client] --> API[Express server]
+  API --> UPLOAD[Multer uploads]
+  API --> PARSE[pdf-parse]
+  API --> GENAI["@google/genai"]
+  API --> DB[(MongoDB + Mongoose)]

@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1E33"/>
+    </linearGradient>
+    <linearGradient id="g" x1="180" y1="120" x2="1020" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6BE"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <g>
+    <rect x="110" y="108" width="980" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#38BDF8" stroke-opacity="0.24"/>
+    <rect x="158" y="256" width="884" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#63E6BE" stroke-opacity="0.24"/>
+    <rect x="214" y="404" width="772" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#F59E0B" stroke-opacity="0.24"/>
+    <rect x="282" y="552" width="636" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#E2E8F0" stroke-opacity="0.08"/>
+  </g>
+  <path d="M230 160H980M270 308H940M330 456H870M400 604H800" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2"/>
+  <text x="180" y="170" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Frontend</text>
+  <text x="222" y="318" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Backend</text>
+  <text x="274" y="466" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">AI Layer</text>
+  <text x="342" y="614" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Databases / Services / Deployment</text>
+  <circle cx="1000" cy="160" r="24" fill="url(#g)"/>
+</svg>

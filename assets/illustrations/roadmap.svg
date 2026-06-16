@@ -1,0 +1,28 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111D"/>
+      <stop offset="1" stop-color="#0B1E33"/>
+    </linearGradient>
+    <linearGradient id="g" x1="140" y1="620" x2="1040" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6BE"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <path d="M150 620C250 560 334 530 436 500C556 464 644 446 744 378C856 306 950 230 1042 146" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 620C250 560 334 530 436 500C556 464 644 446 744 378C856 306 950 230 1042 146" stroke="#E2E8F0" stroke-opacity="0.08" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#0F172A" stroke="url(#g)" stroke-opacity="0.5" stroke-width="2">
+    <circle cx="150" cy="620" r="28"/>
+    <circle cx="436" cy="500" r="28"/>
+    <circle cx="744" cy="378" r="28"/>
+    <circle cx="1042" cy="146" r="28"/>
+  </g>
+  <g fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">
+    <text x="112" y="676">Now</text>
+    <text x="388" y="556">Build</text>
+    <text x="692" y="434">Scale</text>
+    <text x="980" y="104">Future</text>
+  </g>
+</svg>

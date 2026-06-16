@@ -1,0 +1,11 @@
+flowchart LR
+  FE[Frontend] --> ORCH[Orchestrator]
+  ORCH --> PLAN[Planner]
+  ORCH --> ROUTE[Tool Router]
+  PLAN --> MEM[(Memory Store)]
+  ROUTE --> DB[(PostgreSQL)]
+  ROUTE --> CACHE[(Redis)]
+  ROUTE --> EXT[External APIs]
+  ORCH --> OBS[Observability]
+  ORCH --> DEP[Deployment]
+

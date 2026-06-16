@@ -1,0 +1,7 @@
+flowchart LR
+  UI[React 18 + Vite 5 UI] --> AUTH[Supabase Auth]
+  UI --> DASH[Resume analysis + interview prep]
+  DASH --> FUNC[Supabase Edge Functions]
+  FUNC --> RULES[Deterministic ATS logic]
+  FUNC --> GEMINI[Gemini fallback]
+  FUNC --> DB[(Postgres + RLS)]

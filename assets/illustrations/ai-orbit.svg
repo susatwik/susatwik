@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1E33"/>
+    </linearGradient>
+    <linearGradient id="g" x1="180" y1="120" x2="1020" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6BE"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <circle cx="600" cy="400" r="190" stroke="#93C5FD" stroke-opacity="0.16" stroke-width="2"/>
+  <circle cx="600" cy="400" r="128" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="600" cy="400" r="72" fill="#0F172A" stroke="url(#g)" stroke-opacity="0.6" stroke-width="2"/>
+  <text x="562" y="412" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="800">AI</text>
+  <g fill="#0B1324" stroke="#E2E8F0" stroke-opacity="0.12" stroke-width="2">
+    <circle cx="600" cy="178" r="34"/>
+    <circle cx="792" cy="398" r="34"/>
+    <circle cx="600" cy="622" r="34"/>
+    <circle cx="408" cy="398" r="34"/>
+  </g>
+  <path d="M600 212V330M634 398H746M600 470V542M454 398H566" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M520 252C560 228 640 228 680 252" stroke="#E2E8F0" stroke-opacity="0.15" stroke-width="2" stroke-linecap="round"/>
+</svg>
