@@ -7,20 +7,33 @@
     <linearGradient id="g" x1="180" y1="120" x2="1020" y2="680" gradientUnits="userSpaceOnUse">
       <stop stop-color="#63E6BE"/>
       <stop offset="0.5" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 H 0 V 60" stroke="#E2E8F0" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
   </defs>
   <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="800" rx="32" fill="url(#grid)"/>
+  <text x="120" y="120" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">SYSTEM ARCHITECTURE</text>
+  <text x="120" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="900">Layers that keep the product inspectable</text>
   <g>
-    <rect x="110" y="108" width="980" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#38BDF8" stroke-opacity="0.24"/>
-    <rect x="158" y="256" width="884" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#63E6BE" stroke-opacity="0.24"/>
-    <rect x="214" y="404" width="772" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#F59E0B" stroke-opacity="0.24"/>
-    <rect x="282" y="552" width="636" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#E2E8F0" stroke-opacity="0.08"/>
+    <rect x="110" y="206" width="980" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#38BDF8" stroke-opacity="0.24"/>
+    <rect x="158" y="350" width="884" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#63E6BE" stroke-opacity="0.24"/>
+    <rect x="214" y="494" width="772" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#A855F7" stroke-opacity="0.24"/>
+    <rect x="282" y="638" width="636" height="104" rx="24" fill="#0B1324" fill-opacity="0.84" stroke="#E2E8F0" stroke-opacity="0.08"/>
   </g>
-  <path d="M230 160H980M270 308H940M330 456H870M400 604H800" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2"/>
-  <text x="180" y="170" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Frontend</text>
-  <text x="222" y="318" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Backend</text>
-  <text x="274" y="466" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">AI Layer</text>
-  <text x="342" y="614" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Databases / Services / Deployment</text>
-  <circle cx="1000" cy="160" r="24" fill="url(#g)"/>
+  <path d="M230 258H980M270 402H940M330 546H870M400 690H800" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2"/>
+  <circle cx="1000" cy="258" r="24" fill="url(#g)"/>
+  <circle cx="980" cy="402" r="18" fill="#63E6BE"/>
+  <circle cx="920" cy="546" r="18" fill="#38BDF8"/>
+  <circle cx="840" cy="690" r="18" fill="#A855F7"/>
+  <text x="150" y="270" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Frontend</text>
+  <text x="170" y="414" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Backend</text>
+  <text x="224" y="558" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">AI Layer</text>
+  <text x="292" y="702" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Data / Services / Delivery</text>
+  <text x="150" y="304" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">UI surfaces that stay readable on mobile</text>
+  <text x="170" y="448" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">APIs, auth, and server-side logic</text>
+  <text x="224" y="592" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">retrieval, guardrails, and fallbacks</text>
+  <text x="292" y="736" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">storage, queues, deployment, observability</text>
 </svg>

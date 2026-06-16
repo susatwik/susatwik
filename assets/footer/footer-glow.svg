@@ -1,15 +1,21 @@
-<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="160" viewBox="0 0 1600 160" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 92) rotate(90) scale(150 700)">
-      <stop stop-color="#38BDF8" stop-opacity="0.42"/>
+    <linearGradient id="line" x1="180" y1="80" x2="1420" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6BE" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#63E6BE" stop-opacity="0.26"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.34"/>
+      <stop offset="0.82" stop-color="#A855F7" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 86) rotate(90) scale(28 440)">
+      <stop stop-color="#38BDF8" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(560 112) rotate(90) scale(90 520)">
-      <stop stop-color="#63E6BE" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#63E6BE" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-  <ellipse cx="800" cy="92" rx="520" ry="86" fill="url(#g1)"/>
-  <ellipse cx="560" cy="112" rx="300" ry="58" fill="url(#g2)"/>
-  <path d="M250 128C422 76 618 50 800 50C982 50 1178 76 1350 128" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2"/>
+  <rect width="1600" height="160" fill="none"/>
+  <path d="M180 82H1420" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="800" cy="86" rx="340" ry="48" fill="url(#glow)"/>
+  <path d="M560 86H1040" stroke="#E2E8F0" stroke-opacity="0.06" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="800" cy="86" r="8" fill="#63E6BE"/>
+  <text x="680" y="128" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Built to ship with proof</text>
 </svg>

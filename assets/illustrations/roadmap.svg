@@ -7,22 +7,34 @@
     <linearGradient id="g" x1="140" y1="620" x2="1040" y2="146" gradientUnits="userSpaceOnUse">
       <stop stop-color="#63E6BE"/>
       <stop offset="0.55" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 H 0 V 60" stroke="#E2E8F0" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
   </defs>
   <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="800" rx="32" fill="url(#grid)"/>
+  <text x="120" y="120" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">ENGINEERING JOURNEY</text>
+  <text x="120" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="900">A path that keeps narrowing toward shipped systems</text>
   <path d="M150 620C250 560 334 530 436 500C556 464 644 446 744 378C856 306 950 230 1042 146" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/>
   <path d="M150 620C250 560 334 530 436 500C556 464 644 446 744 378C856 306 950 230 1042 146" stroke="#E2E8F0" stroke-opacity="0.08" stroke-width="2" stroke-linecap="round"/>
   <g fill="#0F172A" stroke="url(#g)" stroke-opacity="0.5" stroke-width="2">
-    <circle cx="150" cy="620" r="28"/>
-    <circle cx="436" cy="500" r="28"/>
-    <circle cx="744" cy="378" r="28"/>
-    <circle cx="1042" cy="146" r="28"/>
+    <circle cx="150" cy="620" r="30"/>
+    <circle cx="436" cy="500" r="30"/>
+    <circle cx="744" cy="378" r="30"/>
+    <circle cx="1042" cy="146" r="30"/>
   </g>
-  <g fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">
-    <text x="112" y="676">Now</text>
-    <text x="388" y="556">Build</text>
-    <text x="692" y="434">Scale</text>
-    <text x="980" y="104">Future</text>
+  <g fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="112" y="680">Now</text>
+    <text x="388" y="560">Build</text>
+    <text x="692" y="438">Scale</text>
+    <text x="974" y="104">Autonomous</text>
+  </g>
+  <g fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">
+    <text x="112" y="708">algorithms and implementation discipline</text>
+    <text x="350" y="588">backend structure and service boundaries</text>
+    <text x="648" y="466">AI products with retrieval and guardrails</text>
+    <text x="924" y="132">repeatable outcomes and operating leverage</text>
   </g>
 </svg>

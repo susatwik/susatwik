@@ -2,10 +2,16 @@
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#63E6BE" stop-opacity="0"/>
-      <stop offset="0.48" stop-color="#38BDF8" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 76) rotate(90) scale(18 420)">
+      <stop stop-color="#38BDF8" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <path d="M0 74C154 22 310 22 466 74C622 126 778 126 934 74C1090 22 1246 22 1402 74C1480 96 1540 102 1600 102" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round"/>
-  <path d="M0 74C154 22 310 22 466 74C622 126 778 126 934 74C1090 22 1246 22 1402 74C1480 96 1540 102 1600 102" stroke="#E2E8F0" stroke-opacity="0.08" stroke-width="1"/>
+  <path d="M0 76C144 30 288 30 432 76C576 122 720 122 864 76C1008 30 1152 30 1296 76C1414 114 1510 120 1600 112" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M0 76C144 30 288 30 432 76C576 122 720 122 864 76C1008 30 1152 30 1296 76C1414 114 1510 120 1600 112" stroke="#E2E8F0" stroke-opacity="0.08" stroke-width="1"/>
+  <ellipse cx="800" cy="76" rx="310" ry="42" fill="url(#glow)"/>
+  <circle cx="800" cy="76" r="7" fill="#63E6BE"/>
 </svg>

@@ -1,128 +1,145 @@
 # Susatwik Manuri
 
 <div align="center">
-  <img src="assets/hero/hero-banner.svg" alt="Hero banner for Susatwik Manuri" width="100%" />
+  <img src="assets/hero/hero-banner.svg" alt="Premium hero banner for Susatwik Manuri showing a dark SaaS-style system dashboard and positioning" width="100%" />
 </div>
 
-<div align="center">
-  <strong>From Algorithms to Autonomous Systems</strong>
-</div>
+<div align="center"><strong>From Algorithms to Autonomous Systems</strong></div>
+<div align="center">CS undergraduate building AI systems, backend products, and shipped demos.</div>
 
 <div align="center">
-  CS undergraduate building source-backed AI products, backend systems, and live demos.
-</div>
-
-<div align="center">
-  <a href="https://github.com/susatwik"><img src="https://img.shields.io/badge/GitHub-susatwik-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://susatwik-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/susatwik/"><img src="https://img.shields.io/badge/LinkedIn-susatwik-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/susatwik"><img src="https://img.shields.io/badge/GitHub-susatwik-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://susatwik-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://linkedin.com/in/susatwik/"><img src="https://img.shields.io/badge/LinkedIn-susatwik-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="https://www.codechef.com/users/susatwik"><img src="https://img.shields.io/badge/CodeChef-Profile-0F172A?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
   <a href="https://leetcode.com/u/susatwik/"><img src="https://img.shields.io/badge/LeetCode-Profile-0F172A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
-  <a href="mailto:susatwik.manuri@sasi.ac.in"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:susatwik.manuri@sasi.ac.in"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
 </div>
 
-## At a glance
-
-- Focus: AI systems, backend architecture, product engineering
-- Proof: 4 case studies, 4 repos, 4 live demos
-- Competitive programming: CodeChef 4★, 1800+ solved, LeetCode profile
-- Brand: From Algorithms to Autonomous Systems
-
-## Hero
+<table>
+  <tr>
+    <td width="34%"><strong>Focus</strong><br />AI systems, backend architecture, product engineering</td>
+    <td width="33%"><strong>Proof</strong><br />4 case studies, 4 repos, 4 live demos</td>
+    <td width="33%"><strong>Competitive programming</strong><br />CodeChef 4★, 1800+ solved, LeetCode</td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="assets/hero/profile-intro.svg" alt="Intro panel showing focus, proof, and positioning" width="100%" />
+  <img src="assets/dividers/divider-gradient.svg" alt="Gradient divider separating the hero from the portfolio sections" width="100%" />
 </div>
-
-- Who I am: CS undergraduate building AI and backend products.
-- What I build: resume analysis, recovery automation, restaurant ops, and pet-care workflows.
-- Why it stands out: every project ships with a screenshot, architecture diagram, repo, and demo.
 
 ## Projects
 
 <details id="career-compass" open>
-<summary><strong>Career Compass</strong></summary>
+<summary><strong>Career Compass</strong> · resume analysis and interview prep</summary>
 
-<img src="assets/screenshots/hirescale-dashboard.png" alt="Career Compass dashboard showing resume analysis and interview prep" width="100%" />
+<div align="center">
+  <img src="assets/screenshots/hirescale-dashboard.png" alt="Career Compass dashboard showing resume analysis and interview preparation workflows" width="84%" />
+</div>
 
-- Context: Resume analysis and interview prep with Supabase auth, Edge Functions, and RLS-backed storage.
+- Stack: React 18, Vite 5, Supabase Auth, Edge Functions, Postgres RLS
 - Proof: [screenshot](assets/screenshots/hirescale-dashboard.png) · [diagram](diagrams/hirescale.mmd) · [repo](https://github.com/susatwik/stateful-interview-system) · [demo](https://stateful-interview-system.vercel.app)
+- What it demonstrates: document intake, scoring logic, auth-backed persistence, and structured feedback.
 
 </details>
 
 <details id="recoverymate">
-<summary><strong>RecoveryMate</strong></summary>
+<summary><strong>RecoveryMate</strong> · recovery planning and PDF workflows</summary>
 
-<img src="assets/screenshots/recovermate-dashboard.png" alt="RecoveryMate dashboard showing recovery planning workflows" width="100%" />
+<div align="center">
+  <img src="assets/screenshots/recovermate-dashboard.png" alt="RecoveryMate dashboard showing recovery planning and document extraction workflows" width="84%" />
+</div>
 
-- Context: Recovery planning with a Vite client, Express server, and MongoDB persistence.
+- Stack: Vite React client, Express server, Multer, pdf-parse, @google/genai, MongoDB, Mongoose
 - Proof: [screenshot](assets/screenshots/recovermate-dashboard.png) · [diagram](diagrams/recovermate.mmd) · [repo](https://github.com/susatwik/RecoverMate) · [demo](https://recovermate-web.onrender.com)
+- What it demonstrates: PDF ingestion, AI-assisted extraction, server-side persistence, and workflow orchestration.
 
 </details>
 
 <details id="restaurantflow">
-<summary><strong>RestaurantFlow</strong></summary>
+<summary><strong>RestaurantFlow</strong> · order and kitchen coordination</summary>
 
-<img src="assets/screenshots/restaurantflow-dashboard.png" alt="RestaurantFlow dashboard showing order and kitchen coordination" width="100%" />
+<div align="center">
+  <img src="assets/screenshots/restaurantflow-dashboard.png" alt="RestaurantFlow dashboard showing order coordination and kitchen workflow management" width="84%" />
+</div>
 
-- Context: Orders, prep, and service coordination in one board.
+- Stack: dashboard UI, order flow, kitchen board, status updates
 - Proof: [screenshot](assets/screenshots/restaurantflow-dashboard.png) · [diagram](diagrams/restaurantflow.mmd) · [repo](https://github.com/susatwik/Restaurant-Ordering-Kitchen-Management-Platform) · [demo](https://restaurant-ordering-kitchen.vercel.app)
+- What it demonstrates: operational state tracking, handoff visibility, and service coordination.
 
 </details>
 
 <details id="pawdentify">
-<summary><strong>Pawdentify</strong></summary>
+<summary><strong>Pawdentify</strong> · pet records and reminders</summary>
 
-<img src="assets/screenshots/pawdentify-dashboard.png" alt="Pawdentify dashboard showing pet records and reminders" width="100%" />
+<div align="center">
+  <img src="assets/screenshots/pawdentify-dashboard.png" alt="Pawdentify dashboard showing pet records, visits, and reminder workflows" width="84%" />
+</div>
 
-- Context: Pet records, visits, and reminders in one place.
+- Stack: pet records UI, visit timeline, reminders
 - Proof: [screenshot](assets/screenshots/pawdentify-dashboard.png) · [diagram](diagrams/pawdentify.mmd) · [repo](https://github.com/susatwik/pawdentify) · [demo](https://pawdentify-frontend.vercel.app)
+- What it demonstrates: workflow organization for recurring care tasks and record keeping.
 
 </details>
+
+<div align="center">
+  <img src="assets/dividers/divider-wave.svg" alt="Section divider between projects and operating system" width="100%" />
+</div>
+
+## Operating system
+
+<div align="center">
+  <img src="assets/hero/profile-intro.svg" alt="Operating profile visual showing build, think, and proof signals" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/illustrations/terminal-ui.svg" alt="Developer operating system graphic with terminal-style positioning and proof signals" width="100%" />
+</div>
+
+- What I build: AI systems, dashboards, and backend workflows that need to be shipped, not just described.
+- How I think: define the user flow first, then the data model, then the automation layer.
+- Why AI systems: useful AI needs retrieval, guardrails, persistence, and a clean product handoff.
+- Competitive programming background: CodeChef 4★ and 1800+ solved problems keep the algorithmic side sharp.
+- Engineering strengths: auth, state management, API design, and end-to-end delivery.
 
 ## Brand
 
 <div align="center">
-  <img src="assets/branding/personal-brand.svg" alt="Brand ladder showing algorithms to autonomous systems" width="100%" />
+  <img src="assets/branding/personal-brand.svg" alt="Brand progression from algorithms to autonomous systems" width="100%" />
 </div>
 
-<details>
-<summary><strong>Brand narrative</strong></summary>
+- Algorithms → backend systems → AI products → autonomous systems.
+- The common thread is shipping useful systems with public proof.
 
-Algorithms → backend systems → AI products → operational software.
+## Journey
 
-</details>
+<div align="center">
+  <img src="assets/illustrations/roadmap.svg" alt="Engineering journey visual from now to autonomous systems" width="100%" />
+</div>
 
-## Snapshot
+<div align="center">
+  <img src="assets/illustrations/coding-universe.svg" alt="Problem-solving network visual showing core algorithmic patterns" width="100%" />
+</div>
 
-<details>
-<summary><strong>YAML profile</strong></summary>
+- Algorithms taught me edge cases, runtime tradeoffs, and precision.
+- Backend work taught me service boundaries, state transitions, and data flow.
+- AI product work pushed me toward retrieval, guardrails, and inspectable outputs.
 
-```yaml
-identity:
-  name: Susatwik Manuri
-  role: CS undergraduate
-  location: India
+## Systems
 
-focus:
-  primary: AI systems and backend architecture
-  secondary: RAG workflows and automation
+<div align="center">
+  <img src="assets/illustrations/architecture-showcase.svg" alt="System architecture visual showing frontend, backend, AI, and delivery layers" width="100%" />
+</div>
 
-proof:
-  projects: 4
-  demos: 4
+<div align="center">
+  <img src="assets/illustrations/ai-orbit.svg" alt="AI workflow visual showing input, retrieval, reasoning, tools, and output" width="100%" />
+</div>
 
-competitive_programming:
-  codechef: 4★
-  solved: 1800+
-```
-
-</details>
-
-## Architecture
+- The visuals mirror the actual stacks used in the repos and demos.
+- Each major claim below is backed by a diagram, repo, screenshot, or live deployment.
 
 <details>
-<summary>Career Compass</summary>
+<summary><strong>Mermaid architecture proofs</strong></summary>
 
 ```mermaid
 flowchart LR
@@ -134,11 +151,6 @@ flowchart LR
   FUNC --> DB[(Postgres + RLS)]
 ```
 
-</details>
-
-<details>
-<summary>RecoveryMate</summary>
-
 ```mermaid
 flowchart LR
   UI[Vite React client] --> API[Express server]
@@ -148,11 +160,6 @@ flowchart LR
   API --> DB[(MongoDB + Mongoose)]
 ```
 
-</details>
-
-<details>
-<summary>RestaurantFlow</summary>
-
 ```mermaid
 flowchart LR
   UI[Dashboard UI] --> FLOW[Order flow]
@@ -160,11 +167,6 @@ flowchart LR
   KITCHEN --> STATUS[Status updates]
   STATUS --> ALERTS[Alerts]
 ```
-
-</details>
-
-<details>
-<summary>Pawdentify</summary>
 
 ```mermaid
 flowchart LR
@@ -178,36 +180,34 @@ flowchart LR
 
 ## Metrics dashboard
 
+<div align="center">
+  <img src="assets/illustrations/tech-grid.svg" alt="Metrics dashboard framed as a dark product analytics surface" width="100%" />
+</div>
+
 <table>
   <tr>
-    <td><strong>Showcase projects</strong><br />4</td>
-    <td><strong>Public source repos</strong><br />4</td>
-    <td><strong>Live demos</strong><br />4</td>
+    <td width="33%"><strong>Showcase projects</strong><br />4</td>
+    <td width="33%"><strong>Public source repos</strong><br />4</td>
+    <td width="34%"><strong>Live demos</strong><br />4</td>
   </tr>
   <tr>
     <td><strong>CodeChef</strong><br />4★</td>
     <td><strong>Problems solved</strong><br />1800+</td>
-    <td><strong>Brand</strong><br />From Algorithms to Autonomous Systems</td>
+    <td><strong>Architecture diagrams</strong><br />4</td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats card" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susatwik&theme=github-compact&hide_border=true" alt="GitHub contribution graph" width="100%" />
-</div>
 
 ## Tech stack
 
 <details>
 <summary><strong>Stack details</strong></summary>
 
-Languages: TypeScript, Python, JavaScript, SQL, Bash  
-Frontend: React, Next.js, Tailwind CSS, shadcn/ui, Framer Motion  
+Languages: TypeScript, JavaScript, Python, SQL  
+Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Framer Motion  
 Backend: Node.js, Express, REST, Webhooks  
 Data: PostgreSQL, MongoDB, Redis  
 AI: LLMs, RAG, embeddings, tool calling  
-Cloud: Vercel, Docker, Kubernetes  
-DevOps: GitHub Actions, CI/CD, observability  
+Cloud: Vercel, Docker, GitHub Actions  
 Tools: Git, Linux, Postman, pnpm, Turbo, VS Code
 
 </details>
@@ -232,5 +232,11 @@ Tools: Git, Linux, Postman, pnpm, Turbo, VS Code
 </div>
 
 <div align="center">
-  <img src="assets/footer/footer-glow.svg" alt="Footer glow" width="100%" />
+  <img src="assets/footer/footer-glow.svg" alt="Elegant footer glow closing the portfolio" width="100%" />
+</div>
+
+<div align="center">
+  <strong>Susatwik Manuri</strong><br />
+  From Algorithms to Autonomous Systems<br />
+  Product engineering, AI systems, and backend delivery with proof attached.
 </div>

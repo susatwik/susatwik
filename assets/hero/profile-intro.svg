@@ -1,51 +1,52 @@
 <svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F"/>
-      <stop offset="1" stop-color="#0B1E33"/>
+      <stop stop-color="#06101D"/>
+      <stop offset="1" stop-color="#0A1A2D"/>
     </linearGradient>
     <linearGradient id="accent" x1="120" y1="80" x2="1080" y2="680" gradientUnits="userSpaceOnUse">
       <stop stop-color="#63E6BE"/>
-      <stop offset="0.45" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M 52 0 H 0 V 52" stroke="#E2E8F0" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
   </defs>
+
   <rect width="1200" height="760" rx="34" fill="url(#bg)"/>
-  <rect x="32" y="32" width="1136" height="696" rx="28" fill="#0B1324" fill-opacity="0.56" stroke="url(#accent)" stroke-opacity="0.24"/>
-  <circle cx="220" cy="220" r="108" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.22"/>
-  <circle cx="220" cy="220" r="66" fill="#111827" stroke="#63E6BE" stroke-opacity="0.28"/>
-  <text x="180" y="232" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="700">SM</text>
+  <rect width="1200" height="760" rx="34" fill="url(#grid)"/>
+  <rect x="34" y="34" width="1132" height="692" rx="28" fill="#0B1324" fill-opacity="0.7" stroke="url(#accent)" stroke-opacity="0.18"/>
 
-  <text x="376" y="172" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Susatwik Manuri</text>
-  <text x="376" y="222" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">AI Systems Engineer</text>
-  <text x="376" y="270" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">I turn AI ideas into systems teams can actually ship and operate.</text>
+  <text x="92" y="124" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">WHAT CAN BE TRUSTED</text>
+  <text x="92" y="168" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">Signals over slogans</text>
+  <text x="92" y="204" fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Three things I keep visible in every project: proof, architecture, and a live product surface.</text>
 
-  <g transform="translate(376 332)">
-    <rect width="150" height="48" rx="14" fill="#0F172A" stroke="#63E6BE" stroke-opacity="0.22"/>
-    <text x="18" y="31" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="17">AI Systems</text>
-    <rect x="164" width="150" height="48" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.22"/>
-    <text x="184" y="31" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="17">Backend</text>
-    <rect x="328" width="206" height="48" rx="14" fill="#0F172A" stroke="#F59E0B" stroke-opacity="0.22"/>
-    <text x="348" y="31" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="17">Product Engineering</text>
+  <g transform="translate(92 248)">
+    <rect width="304" height="188" rx="26" fill="#0F172A" stroke="#63E6BE" stroke-opacity="0.18"/>
+    <text x="24" y="42" fill="#63E6BE" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700">Build</text>
+    <text x="24" y="80" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">AI systems</text>
+    <text x="24" y="114" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Workflows that use retrieval, guardrails, and persistence.</text>
   </g>
 
-  <g transform="translate(376 432)">
-    <rect width="428" height="132" rx="24" fill="#0B1324" fill-opacity="0.8" stroke="#E2E8F0" stroke-opacity="0.08"/>
-    <path d="M30 92C82 68 130 60 180 64C242 68 288 86 372 48" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-    <path d="M30 94C82 82 128 78 180 82C240 88 286 98 372 72" stroke="#38BDF8" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round"/>
-    <circle cx="92" cy="92" r="10" fill="#63E6BE"/>
-    <circle cx="182" cy="82" r="10" fill="#38BDF8"/>
-    <circle cx="278" cy="74" r="10" fill="#F59E0B"/>
-    <text x="28" y="32" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Working style</text>
-    <text x="28" y="58" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Clear systems. Strong product instincts. Measurable outcomes.</text>
+  <g transform="translate(448 248)">
+    <rect width="304" height="188" rx="26" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.18"/>
+    <text x="24" y="42" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700">Think</text>
+    <text x="24" y="80" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Backend first</text>
+    <text x="24" y="114" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Auth, data flow, and service boundaries come before polish.</text>
   </g>
 
-  <g transform="translate(860 164)">
-    <rect width="250" height="328" rx="28" fill="#0B1324" fill-opacity="0.72" stroke="#E2E8F0" stroke-opacity="0.08"/>
-    <path d="M48 258V176M88 258V136M128 258V92M168 258V150M208 258V116" stroke="url(#accent)" stroke-width="16" stroke-linecap="round"/>
-    <text x="46" y="60" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Brand Signals</text>
-    <text x="46" y="92" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">systems</text>
-    <text x="100" y="92" fill="#63E6BE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">products</text>
-    <text x="166" y="92" fill="#F59E0B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">impact</text>
+  <g transform="translate(804 248)">
+    <rect width="304" height="188" rx="26" fill="#0F172A" stroke="#A855F7" stroke-opacity="0.18"/>
+    <text x="24" y="42" fill="#A855F7" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700">Proof</text>
+    <text x="24" y="80" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Repo + demo</text>
+    <text x="24" y="114" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Each project stays inspectable in public.</text>
+  </g>
+
+  <g transform="translate(92 482)">
+    <rect width="1016" height="148" rx="26" fill="#0B1324" fill-opacity="0.8" stroke="#E2E8F0" stroke-opacity="0.08"/>
+    <text x="28" y="42" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Operating signals</text>
+    <path d="M28 74H988" stroke="#E2E8F0" stroke-opacity="0.08"/>
+    <text x="28" y="108" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">CS undergraduate · AI and backend focus · CodeChef 4★ · 1800+ solved · 4 live demos</text>
   </g>
 </svg>

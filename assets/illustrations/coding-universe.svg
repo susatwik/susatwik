@@ -4,29 +4,41 @@
       <stop stop-color="#08111D"/>
       <stop offset="1" stop-color="#0B1E33"/>
     </linearGradient>
+    <linearGradient id="g" x1="140" y1="620" x2="1040" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#63E6BE"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 H 0 V 60" stroke="#E2E8F0" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
   </defs>
   <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
-  <g stroke="#E2E8F0" stroke-opacity="0.08">
-    <path d="M120 160H1080"/>
-    <path d="M120 320H1080"/>
-    <path d="M120 480H1080"/>
-    <path d="M120 640H1080"/>
-    <path d="M220 110V690"/>
-    <path d="M440 110V690"/>
-    <path d="M660 110V690"/>
-    <path d="M880 110V690"/>
+  <rect width="1200" height="800" rx="32" fill="url(#grid)"/>
+  <text x="120" y="120" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">PROBLEM-SOLVING NETWORK</text>
+  <text x="120" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="900">Patterns that stay sharp under pressure</text>
+  <circle cx="600" cy="400" r="130" fill="#0F172A" stroke="url(#g)" stroke-opacity="0.6" stroke-width="2"/>
+  <circle cx="600" cy="400" r="204" stroke="#93C5FD" stroke-opacity="0.14" stroke-width="2"/>
+  <path d="M600 270V200M730 400H820M600 530V600M470 400H380M690 320L760 250M690 480L760 550M510 320L440 250M510 480L440 550" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#0B1324" stroke="#E2E8F0" stroke-opacity="0.12" stroke-width="2">
+    <circle cx="600" cy="200" r="34"/>
+    <circle cx="820" cy="400" r="34"/>
+    <circle cx="600" cy="600" r="34"/>
+    <circle cx="380" cy="400" r="34"/>
+    <circle cx="760" cy="250" r="34"/>
+    <circle cx="760" cy="550" r="34"/>
+    <circle cx="440" cy="250" r="34"/>
+    <circle cx="440" cy="550" r="34"/>
   </g>
-  <path d="M150 208C252 164 350 156 456 174C566 192 670 244 772 250C888 256 982 210 1050 164" stroke="#38BDF8" stroke-opacity="0.34" stroke-width="2" stroke-linecap="round"/>
-  <path d="M150 552C260 500 362 488 466 506C572 524 668 574 782 574C898 574 992 530 1068 486" stroke="#63E6BE" stroke-opacity="0.34" stroke-width="2" stroke-linecap="round"/>
-  <g fill="#0F172A" stroke="#E2E8F0" stroke-opacity="0.12" stroke-width="2">
-    <circle cx="150" cy="208" r="24"/>
-    <circle cx="456" cy="174" r="24"/>
-    <circle cx="772" cy="250" r="24"/>
-    <circle cx="1050" cy="164" r="24"/>
-    <circle cx="150" cy="552" r="24"/>
-    <circle cx="466" cy="506" r="24"/>
-    <circle cx="782" cy="574" r="24"/>
-    <circle cx="1068" cy="486" r="24"/>
+  <text x="548" y="410" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="800">Problem solving</text>
+  <g fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <text x="570" y="206">arrays</text>
+    <text x="838" y="406">graphs</text>
+    <text x="558" y="636">dp</text>
+    <text x="324" y="406">greedy</text>
+    <text x="732" y="256">trees</text>
+    <text x="724" y="576">logic</text>
+    <text x="408" y="256">runtime</text>
+    <text x="404" y="576">precision</text>
   </g>
-  <text x="420" y="748" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Problem Solving Network</text>
 </svg>

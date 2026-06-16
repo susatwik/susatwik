@@ -6,21 +6,39 @@
     </linearGradient>
     <linearGradient id="g" x1="180" y1="120" x2="1020" y2="680" gradientUnits="userSpaceOnUse">
       <stop stop-color="#63E6BE"/>
-      <stop offset="0.55" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 H 0 V 56" stroke="#E2E8F0" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
   </defs>
   <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="800" rx="32" fill="url(#grid)"/>
+  <text x="116" y="120" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">AI WORKFLOW</text>
+  <text x="116" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="900">Inputs, retrieval, reasoning, tools, output</text>
   <circle cx="600" cy="400" r="190" stroke="#93C5FD" stroke-opacity="0.16" stroke-width="2"/>
   <circle cx="600" cy="400" r="128" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
-  <circle cx="600" cy="400" r="72" fill="#0F172A" stroke="url(#g)" stroke-opacity="0.6" stroke-width="2"/>
-  <text x="562" y="412" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="800">AI</text>
+  <circle cx="600" cy="400" r="76" fill="#0F172A" stroke="url(#g)" stroke-opacity="0.72" stroke-width="2"/>
+  <text x="556" y="410" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="800">AI loop</text>
   <g fill="#0B1324" stroke="#E2E8F0" stroke-opacity="0.12" stroke-width="2">
-    <circle cx="600" cy="178" r="34"/>
-    <circle cx="792" cy="398" r="34"/>
-    <circle cx="600" cy="622" r="34"/>
-    <circle cx="408" cy="398" r="34"/>
+    <circle cx="600" cy="178" r="38"/>
+    <circle cx="812" cy="398" r="38"/>
+    <circle cx="600" cy="622" r="38"/>
+    <circle cx="388" cy="398" r="38"/>
   </g>
-  <path d="M600 212V330M634 398H746M600 470V542M454 398H566" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
-  <path d="M520 252C560 228 640 228 680 252" stroke="#E2E8F0" stroke-opacity="0.15" stroke-width="2" stroke-linecap="round"/>
+  <path d="M600 216V324M638 398H744M600 476V546M456 398H562" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M522 252C562 226 638 226 678 252" stroke="#E2E8F0" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <text x="568" y="184">Input</text>
+    <text x="832" y="404">Tools</text>
+    <text x="560" y="650">Output</text>
+    <text x="324" y="404">Retrieval</text>
+  </g>
+  <g fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">
+    <text x="548" y="206">documents</text>
+    <text x="822" y="430">actions</text>
+    <text x="542" y="676">answers</text>
+    <text x="326" y="430">context</text>
+  </g>
 </svg>
