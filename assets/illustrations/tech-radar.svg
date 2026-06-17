@@ -1,0 +1,64 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="110" x2="1040" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 410) rotate(90) scale(220 220)">
+      <stop stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 H 0 V 48" stroke="#E2E8F0" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="760" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="32" fill="url(#grid)"/>
+  <circle cx="600" cy="410" r="220" fill="url(#glow)"/>
+
+  <text x="80" y="106" fill="#93C5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">TECH RADAR</text>
+  <text x="80" y="150" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="900">A stack that stays readable</text>
+  <text x="80" y="186" fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Frontend, backend, AI, data, and delivery are visible at a glance.</text>
+
+  <g transform="translate(600 412)">
+    <circle r="226" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+    <circle r="170" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+    <circle r="114" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+    <circle r="58" stroke="#E2E8F0" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+    <path d="M-226 0H226M0 -226V226M-160 -160L160 160M160 -160L-160 160" stroke="#93C5FD" stroke-opacity="0.15" stroke-width="2"/>
+    <circle cx="0" cy="0" r="28" fill="url(#accent)"/>
+    <text x="-20" y="6" fill="#F8FAFC" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="800">AI</text>
+  </g>
+
+  <g fill="#0B1324" stroke="#E2E8F0" stroke-opacity="0.09" stroke-width="1.5">
+    <rect x="170" y="278" width="188" height="78" rx="22"/>
+    <rect x="834" y="278" width="188" height="78" rx="22"/>
+    <rect x="170" y="424" width="188" height="78" rx="22"/>
+    <rect x="834" y="424" width="188" height="78" rx="22"/>
+    <rect x="506" y="616" width="188" height="78" rx="22"/>
+  </g>
+
+  <circle cx="364" cy="317" r="10" fill="#38BDF8"/>
+  <circle cx="836" cy="317" r="10" fill="#22D3EE"/>
+  <circle cx="364" cy="463" r="10" fill="#A855F7"/>
+  <circle cx="836" cy="463" r="10" fill="#63E6BE"/>
+  <circle cx="600" cy="655" r="10" fill="url(#accent)"/>
+
+  <text x="198" y="323" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Frontend</text>
+  <text x="860" y="323" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Backend</text>
+  <text x="196" y="469" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Databases</text>
+  <text x="845" y="469" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">AI / GenAI</text>
+  <text x="528" y="651" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Delivery</text>
+
+  <text x="198" y="350" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">React, Next.js, TypeScript, Tailwind</text>
+  <text x="860" y="350" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Node, Express, FastAPI, APIs</text>
+  <text x="196" y="496" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">PostgreSQL, MongoDB, Supabase</text>
+  <text x="845" y="496" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">OpenAI, Gemini, RAG, agents</text>
+  <text x="528" y="678" fill="#C7D2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Docker, Vercel, Railway, Render</text>
+</svg>

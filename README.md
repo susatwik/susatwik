@@ -4,8 +4,12 @@
   <img src="assets/hero/hero-banner.svg" alt="Premium hero banner for Susatwik Manuri showing a dark SaaS-style system dashboard and positioning" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1100&color=7DD3FC&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Products;Engineering+Scalable+Backend+Systems;Turning+Ideas+Into+Production+Software" alt="Typing animation showing AI Systems Engineer, Full-Stack Developer, and related positioning" />
+</div>
+
 <div align="center"><strong>From Algorithms to Autonomous Systems</strong></div>
-<div align="center">CS undergraduate building AI systems, backend products, and shipped demos.</div>
+<div align="center">Computer Science undergraduate building AI systems, backend products, and shipped demos.</div>
 
 <div align="center">
   <a href="https://github.com/susatwik"><img src="https://img.shields.io/badge/GitHub-susatwik-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -24,171 +28,145 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/dividers/divider-gradient.svg" alt="Gradient divider separating the hero from the portfolio sections" width="100%" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/hero/terminal-identity.svg" alt="Terminal identity visual showing the build, ship, and prove operating style" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="assets/illustrations/tech-orbit.svg" alt="Tech orbit visual showing product, backend, AI, and delivery systems around a shared core" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
-<div align="center"><em>I build AI systems and full-stack products with evidence attached.</em></div>
-
-<table>
-  <tr>
-    <td width="33%"><strong>Who I am</strong><br />Computer Science undergraduate<br />Full-Stack Developer</td>
-    <td width="33%"><strong>What I ship</strong><br />4 showcase projects<br />4 public repos<br />4 live demos</td>
-    <td width="34%"><strong>Why hire me</strong><br />CodeChef 4★<br />1800+ solved problems<br />AI systems focus</td>
-  </tr>
-</table>
-
-<div align="center"><em>Why this matters: I combine product thinking, backend structure, and algorithmic consistency.</em></div>
-
-## Proof Highlights
-
-- 4 showcase projects
-- 4 public repositories
-- 4 live demos
-- 1800+ problems solved
-- CodeChef 4★
-- Multiple production deployments
-
-## Core Identity
-
-<div align="center"><em>Short version: I like product work that still behaves like solid software.</em></div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Left lane</strong><br />
-      Education: Computer Science undergraduate<br />
-      Competitive programming: CodeChef 4★, 1800+ solved<br />
-      Product engineering: dashboards, workflows, demos<br />
-      AI systems: agents, RAG, automation<br />
-      Open-source interest: public repositories and reusable systems
-    </td>
-    <td width="50%">
-      <strong>Right lane</strong><br />
-      Current direction: build products with stronger systems depth<br />
-      Long-term goals: ship AI products that scale and stay inspectable<br />
-      Research interests: agentic workflows, retrieval, orchestration<br />
-      Specialization: backend architecture, full-stack systems, developer tooling
-    </td>
-  </tr>
-</table>
-
-## What I Love Building
-
-<div align="center"><em>Three problem spaces I keep returning to.</em></div>
+<div align="center"><em>I build AI systems and full-stack products where the interface, backend, and AI layer all carry the same standard of proof.</em></div>
 
 <table>
   <tr>
     <td width="33%">
-      <strong>AI Systems</strong><br />
-      agents<br />
-      RAG systems<br />
-      workflow automation<br />
-      multi-agent systems<br />
-      decision intelligence
+      <strong>👨‍💻 AI Systems Engineer</strong><br />
+      Full-Stack Developer<br />
+      Backend Engineer
     </td>
     <td width="33%">
-      <strong>Full-Stack Products</strong><br />
-      SaaS platforms<br />
-      dashboards<br />
-      productivity tools<br />
-      enterprise workflows<br />
-      customer-facing applications
+      <strong>🏆 Competitive Programming</strong><br />
+      CodeChef 4★<br />
+      1800+ Problems Solved
     </td>
     <td width="34%">
-      <strong>Engineering Systems</strong><br />
-      scalable backend services<br />
-      cloud architecture<br />
-      APIs<br />
-      developer platforms<br />
-      infrastructure tooling
+      <strong>🚀 Builder</strong><br />
+      4 Projects<br />
+      4 Repositories<br />
+      4 Live Demos
     </td>
   </tr>
 </table>
 
-## Current Focus Areas
+## Current Technology Focus
 
-<div align="center"><em>What I’m building, learning, and looking to collaborate on right now.</em></div>
+<div align="center"><em>These are the technologies I actively build with.</em></div>
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Current Technology Focus</strong><br />
+    <td width="33%">
+      <strong>🔥 Building With</strong><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br />
+      <sub>These are the tools I use to build the products I ship.</sub>
+    </td>
+    <td width="33%">
+      <strong>🧠 Learning</strong><br />
       Agentic AI<br />
-      RAG Systems<br />
-      Multi-Agent Workflows<br />
-      FastAPI<br />
-      Supabase<br />
-      React<br />
-      TypeScript<br />
       System Design<br />
-      Cloud Architecture
+      Cloud Architecture<br />
+      MLOps<br />
+      <sub>Each week I push deeper into systems that make AI products reliable.</sub>
     </td>
-    <td width="50%">
-      <strong>Building Now</strong><br />
-      Career Compass: AI-powered resume and interview platform.<br />
-      RecoveryMate: recovery workflow automation system.<br />
-      RestaurantFlow: restaurant operations platform.<br />
-      Pawdentify: pet identification and recovery platform.
+    <td width="34%">
+      <strong>🚀 Shipping</strong><br />
+      Career Compass<br />
+      RecoveryMate<br />
+      RestaurantFlow<br />
+      Pawdentify<br />
+      <sub>Each project ships with a screenshot, diagram, repository, and live demo.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Looking To Collaborate On</strong><br />
-      Open source<br />
-      AI products<br />
-      Full-stack applications<br />
-      Developer tools
-    </td>
-    <td width="50%">
-      <strong>Currently Learning</strong><br />
-      Advanced system design<br />
-      Agentic AI<br />
-      Multi-agent orchestration<br />
-      Cloud architecture<br />
-      Kubernetes<br />
-      MLOps
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Seeking Guidance In</strong><br />Large-scale distributed systems · AI infrastructure · Enterprise architecture</td>
   </tr>
 </table>
 
 ## Tech Arsenal
 
-<div align="center"><em>Recruiter-friendly stack, strongest tools first.</em></div>
+<div align="center"><em>Visible at a glance, grouped by the work it supports.</em></div>
 
-- Frontend: `React` `TypeScript` `Tailwind`
-- Backend: `Node.js` `FastAPI` `Express`
-- Database: `PostgreSQL` `Supabase` `MongoDB`
-- AI: `OpenAI APIs` `RAG` `Agent Workflows`
-- Cloud: `Vercel` `Render` `Railway`
-- Tools: `Git` `Docker` `Postman`
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Frontend</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css&theme=dark&perline=5" alt="Frontend skill icons" /><br />
+      <sub>Interfaces for product polish, speed, and clear hierarchy.</sub>
+    </td>
+    <td width="50%">
+      <strong>Backend</strong><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=5" alt="Backend skill icons" /><br />
+      <sub>APIs and services built for stable product workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Databases</strong><br />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase&theme=dark&perline=5" alt="Database skill icons" /><br />
+      <sub>Persistence layers for state, auth, and product data.</sub>
+    </td>
+    <td width="50%">
+      <strong>AI &amp; GenAI</strong><br />
+      <img src="https://skillicons.dev/icons?i=openai,python,fastapi&theme=dark&perline=5" alt="AI and GenAI skill icons" /><br />
+      <sub>OpenAI APIs, Gemini APIs, RAG systems, and agent workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>DevOps</strong><br />
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,railway,render&theme=dark&perline=5" alt="DevOps skill icons" /><br />
+      <sub>Shipping and deployment across modern cloud surfaces.</sub>
+    </td>
+    <td width="50%">
+      <strong>Tools</strong><br />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark&perline=5" alt="Tools skill icons" /><br />
+      <sub>Daily tools for building, debugging, and shipping quickly.</sub>
+    </td>
+  </tr>
+</table>
 
-## Engineering Philosophy
+## Engineering DNA
 
-<div align="center"><em>The rules I use when deciding what to build and how to ship it.</em></div>
+<div align="center"><em>One section, three visuals, one narrative.</em></div>
 
-- Build practical products.
-- Solve real problems.
-- Ship fast.
-- Iterate continuously.
-- Use evidence and metrics.
-- Keep it maintainable and scalable.
+<table>
+  <tr>
+    <td width="33%">
+      <img src="assets/illustrations/tech-radar.svg" alt="Tech radar visual showing the stack grouped by frontend, backend, data, AI, and delivery" width="100%" /><br />
+      <sub>Signals I keep visible in every build.</sub>
+    </td>
+    <td width="33%">
+      <img src="assets/illustrations/backend-architecture.svg" alt="Backend architecture visual showing layers from frontend to delivery" width="100%" /><br />
+      <sub>Backend boundaries, data flow, and delivery stay explicit.</sub>
+    </td>
+    <td width="34%">
+      <img src="assets/illustrations/ai-workflow.svg" alt="AI workflow visual showing input, retrieval, reasoning, tools, state, proof, and delivery" width="100%" /><br />
+      <sub>AI flows stay grounded in retrieval, tooling, and traceable output.</sub>
+    </td>
+  </tr>
+</table>
 
-## Why I Build
-
-I enjoy building systems that move from idea → architecture → deployment.
-
-Current interests:
-- AI agents and workflow automation
-- Backend architecture and APIs
-- Full-stack SaaS products
-- Developer productivity tools
-- Production-ready AI applications
+- Algorithms taught me edge cases.
+- Backend work taught me service boundaries.
+- AI product work taught me to keep outputs grounded.
 
 ## Projects
 
@@ -198,7 +176,7 @@ Current interests:
 <summary><strong>Career Compass</strong> · resume analysis and interview prep</summary>
 
 <div align="center">
-  <img src="assets/screenshots/hirescale-dashboard.png" alt="Career Compass dashboard showing resume analysis and interview preparation workflows" width="84%" />
+      <img src="assets/screenshots/hirescale-dashboard.png" alt="Career Compass dashboard showing resume analysis and interview preparation workflows" width="80%" />
 </div>
 
 - Stack: React 18, Vite 5, Supabase Auth, Edge Functions, Postgres RLS
@@ -211,7 +189,7 @@ Current interests:
 <summary><strong>RecoveryMate</strong> · recovery planning and PDF workflows</summary>
 
 <div align="center">
-  <img src="assets/screenshots/recovermate-dashboard.png" alt="RecoveryMate dashboard showing recovery planning and document extraction workflows" width="84%" />
+      <img src="assets/screenshots/recovermate-dashboard.png" alt="RecoveryMate dashboard showing recovery planning and document extraction workflows" width="80%" />
 </div>
 
 - Stack: Vite React client, Express server, Multer, pdf-parse, @google/genai, MongoDB, Mongoose
@@ -224,7 +202,7 @@ Current interests:
 <summary><strong>RestaurantFlow</strong> · order and kitchen coordination</summary>
 
 <div align="center">
-  <img src="assets/screenshots/restaurantflow-dashboard.png" alt="RestaurantFlow dashboard showing order coordination and kitchen workflow management" width="84%" />
+      <img src="assets/screenshots/restaurantflow-dashboard.png" alt="RestaurantFlow dashboard showing order coordination and kitchen workflow management" width="80%" />
 </div>
 
 - Stack: dashboard UI, order flow, kitchen board, status updates
@@ -237,7 +215,7 @@ Current interests:
 <summary><strong>Pawdentify</strong> · pet records and reminders</summary>
 
 <div align="center">
-  <img src="assets/screenshots/pawdentify-dashboard.png" alt="Pawdentify dashboard showing pet records, visits, and reminder workflows" width="84%" />
+      <img src="assets/screenshots/pawdentify-dashboard.png" alt="Pawdentify dashboard showing pet records, visits, and reminder workflows" width="80%" />
 </div>
 
 - Stack: pet records UI, visit timeline, reminders
@@ -247,108 +225,8 @@ Current interests:
 </details>
 
 <div align="center">
-  <img src="assets/dividers/divider-wave.svg" alt="Section divider between projects and operating system" width="100%" />
+  <img src="assets/dividers/divider-wave.svg" alt="Section divider between projects and metrics" width="100%" />
 </div>
-
-## Operating system
-
-<div align="center"><em>How I work when the product has to feel sharp and the code has to hold up.</em></div>
-
-<div align="center">
-  <img src="assets/hero/profile-intro.svg" alt="Operating profile visual showing build, think, and proof signals" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/illustrations/terminal-ui.svg" alt="Developer operating system graphic with terminal-style positioning and proof signals" width="100%" />
-</div>
-
-- What I build: AI systems, dashboards, and backend workflows that need to be shipped, not just described.
-- How I think: user flow first, data model second, automation last.
-- Why AI systems: retrieval, guardrails, and persistence turn demos into products.
-- Competitive programming: CodeChef 4★ and 1800+ solved problems keep the algorithmic side sharp.
-- Engineering strengths: auth, state management, API design, and end-to-end delivery.
-
-## Brand
-
-<div align="center"><em>The line that ties the portfolio together.</em></div>
-
-<div align="center">
-  <img src="assets/branding/personal-brand.svg" alt="Brand progression from algorithms to autonomous systems" width="100%" />
-</div>
-
-- Algorithms → backend systems → AI products → autonomous systems.
-- The common thread is shipping useful systems with public proof.
-
-## Journey
-
-<div align="center"><em>The path from problem solving to systems thinking.</em></div>
-
-<div align="center">
-  <img src="assets/illustrations/roadmap.svg" alt="Engineering journey visual from now to autonomous systems" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/illustrations/coding-universe.svg" alt="Problem-solving network visual showing core algorithmic patterns" width="100%" />
-</div>
-
-- Algorithms taught me edge cases and tradeoffs.
-- Backend work taught me service boundaries and data flow.
-- AI product work pushed me toward retrieval, guardrails, and inspectable outputs.
-
-## Systems
-
-<div align="center"><em>Architecture and AI workflow visuals mirror the actual stack.</em></div>
-
-<div align="center">
-  <img src="assets/illustrations/architecture-showcase.svg" alt="System architecture visual showing frontend, backend, AI, and delivery layers" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/illustrations/ai-orbit.svg" alt="AI workflow visual showing input, retrieval, reasoning, tools, and output" width="100%" />
-</div>
-
-- The visuals mirror the stacks used in the repos and demos.
-- Each major claim below is backed by a diagram, repo, screenshot, or live deployment.
-
-<details>
-<summary><strong>Mermaid architecture proofs</strong></summary>
-
-```mermaid
-flowchart LR
-  UI[React 18 + Vite 5 UI] --> AUTH[Supabase Auth]
-  UI --> DASH[Resume analysis + interview prep]
-  DASH --> FUNC[Supabase Edge Functions]
-  FUNC --> RULES[Deterministic ATS logic]
-  FUNC --> GEMINI["Gemini fallback"]
-  FUNC --> DB[(Postgres + RLS)]
-```
-
-```mermaid
-flowchart LR
-  UI[Vite React client] --> API[Express server]
-  API --> UPLOAD[Multer uploads]
-  API --> PARSE[pdf-parse]
-  API --> GENAI["@google/genai"]
-  API --> DB[(MongoDB + Mongoose)]
-```
-
-```mermaid
-flowchart LR
-  UI[Dashboard UI] --> FLOW[Order flow]
-  FLOW --> KITCHEN[Kitchen board]
-  KITCHEN --> STATUS[Status updates]
-  STATUS --> ALERTS[Alerts]
-```
-
-```mermaid
-flowchart LR
-  UI[Pet records UI] --> VIS[Visit timeline]
-  UI --> REM[Reminders]
-  VIS --> NOTES[Notes]
-  REM --> NOTIF[Notifications]
-```
-
-</details>
 
 ## Metrics dashboard
 
@@ -371,34 +249,16 @@ flowchart LR
   </tr>
 </table>
 
-## Tech stack
-
-<div align="center"><em>Tools I can ship with today.</em></div>
-
-<details>
-<summary><strong>Stack details</strong></summary>
-
-Languages: TypeScript, JavaScript, Python, SQL  
-Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Framer Motion  
-Backend: Node.js, Express, REST, Webhooks  
-Data: PostgreSQL, MongoDB, Redis  
-AI: LLMs, RAG, embeddings, tool calling  
-Cloud: Vercel, Docker, GitHub Actions  
-Tools: Git, Linux, Postman, pnpm, Turbo, VS Code
-
-</details>
-
-## Competitive programming
-
-<div align="center"><em>Algorithmic practice remains part of the signal.</em></div>
-
-<details>
-<summary><strong>Problem solving</strong></summary>
-
-- Profiles: [CodeChef](https://www.codechef.com/users/susatwik) · [LeetCode](https://leetcode.com/u/susatwik/)
-- Strengths: arrays, strings, graphs, dynamic programming, greedy, trees
-
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0F172A" alt="GitHub stats for Susatwik Manuri" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true&title_color=7DD3FC&text_color=E2E8F0&bg_color=0F172A" alt="Top languages used by Susatwik Manuri" />
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
