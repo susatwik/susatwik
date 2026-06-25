@@ -1,5 +1,3 @@
-## June 25, 2026
-- Daily update.
 # Susatwik Manuri
 
 <div align="center">
