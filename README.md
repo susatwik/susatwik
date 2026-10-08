@@ -1,290 +1,418 @@
-# Susatwik Manuri
+<!--
+  =============================================================================
+  SUSATWIK MANURI // DEVELOPER COMMAND CENTER & IDENTITY MATRIX
+  GitHub Profile: https://github.com/susatwik
+  Focus: AI Systems Engineering · Full-Stack Product Delivery · Backend Systems
+  Architecture: Futuristic HUD Operations Console (2026 Edition)
+  =============================================================================
+-->
 
 <div align="center">
-  <img src="assets/hero/hero-banner.svg" alt="Premium hero banner for Susatwik Manuri showing a dark SaaS-style system dashboard and positioning" width="100%" />
+  <!-- SYSTEM INITIALIZATION HERO WITH SUSATWIK MANURI PORTRAIT -->
+  <img src="./assets/hero.svg?v=9" width="100%" alt="Susatwik Manuri — System Initialization Console: AI Systems Engineer & Full-Stack Developer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1100&color=7DD3FC&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+AI-Powered+Products;Engineering+Scalable+Backend+Systems;Turning+Ideas+Into+Production+Software" alt="Typing animation showing AI Systems Engineer, Full-Stack Developer, and related positioning" />
+
+| 📍 **LOCATION** | 🎓 **INSTITUTION** | 🎯 **CORE FOCUS** | 🏆 **COMPETITIVE** | ⚡ **STATUS** |
+| :---: | :---: | :---: | :---: | :---: |
+| Andhra Pradesh, India | CSE @ Sasi Tech | AI Systems · Full-Stack · Backends | CodeChef 4★ (1800+ Solved) | Open to Product & AI Roles |
+
 </div>
 
-<div align="center"><strong>From Algorithms to Autonomous Systems</strong></div>
-<div align="center">Computer Science undergraduate building AI systems, backend products, and shipped demos.</div>
+<p align="center">
+  <a href="#-01--system-overview"><b>[ 01 // OVERVIEW ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-02--engineering-radar"><b>[ 02 // TECH RADAR ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-03--featured-deployments"><b>[ 03 // DEPLOYMENTS ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-04--engineering-journey"><b>[ 04 // TIMELINE ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-05--active-rd"><b>[ 05 // ACTIVE R&amp;D ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-06--credentials-and-proof"><b>[ 06 // PROOF ]</b></a> &nbsp;◈&nbsp;
+  <a href="#-07--communication-channel"><b>[ 07 // CONNECT ]</b></a>
+</p>
+
+---
+
+<br/>
+
+<div align="center" id="-01--system-overview">
+  <img src="./assets/about.svg?v=9" width="100%" alt="01 // System Overview & Identity — About The Engineer" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="36%" align="center" valign="middle">
+
+<!-- ACTUAL SEATED PHOTOGRAPH // SUSATWIK MANURI -->
+<img src="./assets/susatwik-seated.png" width="100%" alt="Susatwik Manuri — AI Systems Engineer & Full-Stack Developer" style="border-radius: 12px;" />
+
+```yaml
+ENGINEER: Susatwik Manuri
+PRIMARY_ROLE: AI Systems Engineer
+SECONDARY_ROLE: Full-Stack Developer
+SPECIALIZATION: Backend Engineer
+DEPARTMENT: CSE
+INSTITUTION: Sasi Institute of Technology & Engineering
+LOCATION: Tadepalligudem, Andhra Pradesh, India
+PROFILE_STATUS: Active Builder
+```
+
+</td>
+<td width="64%" valign="top">
+
+### ⬡ THE BUILDER IDENTITY
+- **Systems-Grounded AI Engineering**: I build software where the user interface, backend microservices, and AI model orchestration carry the exact same standard of engineering proof.
+- **Traceable Workflows**: Rather than ungrounded chat wrappers, my AI architectures focus on structured document intake, stateful interview evaluation, deterministic validation, and RAG pipelines.
+- **Architectural Tenet**:
+  > *"Algorithms taught me edge cases. Backend work taught me service boundaries. AI product work taught me to keep outputs grounded."*
+
+<br/>
+
+### ⬡ CURRENT MISSION & EXECUTION
+- **Production Proof Standards**: Every major flagship system I build ships with an architecture diagram, public source code, and a live production deployment.
+- **Algorithmic Muscle**: Solved over **1800+ algorithmic challenges** across CodeChef and LeetCode, instilling rigorous attention to time complexity, concurrency, and memory efficiency.
+- **Active Technical Focus**: Pushing the boundaries of stateful agentic workflows, multi-station event coordination, and clinical data ingestion.
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+<div align="center" id="-02--engineering-radar">
+  <img src="./assets/stack.svg?v=9" width="100%" alt="02 // Technology Radar & Orbital Systems Stack" />
+</div>
+
+<br/>
+
+<table>
+<thead>
+  <tr>
+    <th width="22%">SYSTEM TIER</th>
+    <th width="33%">PRODUCTION TECHNOLOGIES</th>
+    <th width="45%">ARCHITECTURAL SCOPE & PRODUCTION APPLICATION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>CORE LANGUAGES</b></td>
+    <td>
+      <code>TypeScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>JavaScript</code> &nbsp;·&nbsp; <code>Java</code> &nbsp;·&nbsp; <code>SQL</code>
+    </td>
+    <td>Type-safe full-stack codebases, high-performance API services, ML and data scripting, enterprise OOP, and schema modeling.</td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; GENAI WORKFLOWS</b></td>
+    <td>
+      <code>Google GenAI SDK</code> &nbsp;·&nbsp; <code>OpenAI API</code> &nbsp;·&nbsp; <code>RAG Systems</code> &nbsp;·&nbsp; <code>Prompt Tooling</code>
+    </td>
+    <td>Structured JSON generation, PDF document extraction, stateful interview scoring, retrieval augmentation, and AI agents.</td>
+  </tr>
+  <tr>
+    <td><b>BACKEND &amp; RUNTIMES</b></td>
+    <td>
+      <code>Node.js</code> &nbsp;·&nbsp; <code>Express.js</code> &nbsp;·&nbsp; <code>REST APIs</code> &nbsp;·&nbsp; <code>Edge Functions</code>
+    </td>
+    <td>Asynchronous RESTful APIs, multi-station order state machines, file upload pipelines (Multer), and server-side orchestration.</td>
+  </tr>
+  <tr>
+    <td><b>FRONTEND &amp; INTERFACES</b></td>
+    <td>
+      <code>React 18</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>Three.js</code> &nbsp;·&nbsp; <code>Framer Motion</code> &nbsp;·&nbsp; <code>Tailwind</code>
+    </td>
+    <td>Interactive 3D landing experiences, responsive kitchen boards, real-time clinical dashboards, and high-retention product UIs.</td>
+  </tr>
+  <tr>
+    <td><b>DATABASES &amp; STATE</b></td>
+    <td>
+      <code>PostgreSQL</code> &nbsp;·&nbsp; <code>Supabase RLS</code> &nbsp;·&nbsp; <code>MongoDB</code> &nbsp;·&nbsp; <code>Mongoose</code>
+    </td>
+    <td>Relational schemas with row-level security, document stores for unstructured clinical data, and operational state persistence.</td>
+  </tr>
+  <tr>
+    <td><b>CLOUD &amp; DEVOPS</b></td>
+    <td>
+      <code>Vercel</code> &nbsp;·&nbsp; <code>Supabase Cloud</code> &nbsp;·&nbsp; <code>Docker</code> &nbsp;·&nbsp; <code>Git / GitHub Actions</code>
+    </td>
+    <td>Automated continuous deployment, cloud database hosting, containerization, and production edge execution.</td>
+  </tr>
+  <tr>
+    <td><b>ALGORITHMIC RIGOR</b></td>
+    <td>
+      <code>Data Structures &amp; Algorithms</code> &nbsp;·&nbsp; <code>CodeChef 4★</code> &nbsp;·&nbsp; <code>LeetCode</code>
+    </td>
+    <td>1800+ solved problems; graph theory, dynamic programming, greedy strategies, and competitive algorithmic optimization.</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+<br/>
+
+<div align="center" id="-03--featured-deployments">
+  <img src="./assets/projects.svg?v=9" width="100%" alt="03 // Selected Deployments & Systems — Featured Work" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Career Compass
+**Stateful Interview Evaluation & Resume Analysis System**
+
+> *Document intake, scoring logic, auth-backed persistence, and real-time structured feedback.*
+
+- **Technical Focus**: Stateful AI Workflows · Auth & RLS · Full-Stack Evaluation
+- **Core Stack**: `React 18` · `Vite 5` · `Supabase Auth` · `PostgreSQL RLS` · `Edge Functions` · `AI APIs`
+- **Engineering Value**: Eliminates surface-level chatbot responses by implementing structured scoring criteria, document parsing pipelines, and row-level security to deliver deterministic career evaluation.
+- **Repository**: [susatwik/stateful-interview-system](https://github.com/susatwik/stateful-interview-system)
+- **Live Demo**: [stateful-interview-system.vercel.app](https://stateful-interview-system.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 RecoveryMate
+**Clinical Recovery Planning & Multi-Part PDF Ingestion Engine**
+
+> *Automated medical report parsing, entity extraction, and orchestrated recovery roadmaps.*
+
+- **Technical Focus**: Document Parsing · AI Extraction · Server Orchestration
+- **Core Stack**: `Vite React` · `Express.js` · `Multer` · `pdf-parse` · `@google/genai` · `MongoDB`
+- **Engineering Value**: Handles multi-page medical PDF document uploads, performs streaming entity extraction with Google GenAI, and persists longitudinal recovery tasks with persistent database tracking.
+- **Repository**: [susatwik/RecoverMate](https://github.com/susatwik/RecoverMate)
+- **Live Demo**: [apex-recovery-hub.vercel.app](https://apex-recovery-hub.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍳 RestaurantFlow
+**Multi-Station Kitchen Coordination & Order State Tracking Platform**
+
+> *Operational order state machines, kitchen handoff visibility, and station coordination.*
+
+- **Technical Focus**: Distributed State Tracking · Real-Time UI · Service Coordination
+- **Core Stack**: `React / Next.js` · `TypeScript` · `Node.js` · `REST APIs` · `Tailwind CSS`
+- **Engineering Value**: Solves operational latency in commercial kitchens with distinct station boards (prep, cook, dispatch), synchronized status transitions, and zero-confusion ticket routing.
+- **Repository**: [susatwik/Restaurant-Ordering-Kitchen-Management-Platform](https://github.com/susatwik/Restaurant-Ordering-Kitchen-Management-Platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 Pawdentify
+**Pet Health Records & Preventive Care Workflow Platform**
+
+> *Care timeline tracking, pet identification architecture, and vaccination workflows.*
+
+- **Technical Focus**: Workflow Scheduling · Record Persistence · Care Management
+- **Core Stack**: `React` · `TypeScript` · `Node.js` · `Express` · `Cloud Storage`
+- **Engineering Value**: Provides structured lifecycle care timelines, vaccine schedule automation, and comprehensive pet identity record keeping for clinics and pet parents.
+- **Repository**: [susatwik/pawdentify](https://github.com/susatwik/pawdentify)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 TaskPilot AI
+**Autonomous Task Prioritization & Intelligent Pilot Workflow**
+
+- **Stack**: `TypeScript` · `Next.js` · `AI APIs` · `Tailwind CSS`
+- **Highlights**: AI-driven task decomposition and prioritization engine that organizes engineering backlogs into actionable sprints.
+- **Links**: [Source Code](https://github.com/susatwik/taskpilot-ai) · [Live Demo](https://taskpilot-ai-nu.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 3D Interactive Portfolio
+**Spatial Canvas Engineering & Dynamic Shader Presentation**
+
+- **Stack**: `Next.js` · `React` · `Three.js` · `Framer Motion`
+- **Highlights**: High-performance WebGL 3D scenes, particle simulations, and interactive model viewports.
+- **Links**: [Source Code](https://github.com/susatwik/susatwik-portfolio) · [Live Demo](https://susatwik-portfolio.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+<div align="center" id="-04--engineering-journey">
+  <img src="./assets/journey.svg?v=9" width="100%" alt="04 // Engineering Trajectory & Timeline" />
+</div>
+
+<br/>
+
+```
+[ FOUNDATION ]  Computer Science & Engineering (B.Tech)
+      │         • Sasi Institute of Technology & Engineering (Tadepalligudem, AP, India)
+      │         • Rigorous mastery of Data Structures, Algorithms, OS, and DBMS
+      ▼
+[ ALGO RIGOR ]  CodeChef 4★ Rating & 1800+ Problems Solved
+      │         • Ranked among top competitive programmers on CodeChef
+      │         • Advanced Python Certification from CodeChef
+      │         • Systematic problem-solving discipline applied to all backend code
+      ▼
+[ COMMUNITY ]   ACM Student Chapter & Technical Leadership
+      │         • Active participant in collegiate ACM technical chapter initiatives
+      │         • Speaker on Artificial Intelligence ethics, innovation, and industry shifts
+      ▼
+[ PRODUCTION ]  Full-Stack Product Shipments & Case Studies
+      │         • Shipped Career Compass, RecoveryMate, RestaurantFlow, Pawdentify
+      │         • Production standard: Architecture Diagrams + Source + Live Demos
+      ▼
+[ ACTIVE R&D ]  Advanced Agentic AI, RAG Systems & Scalable Microservices
+```
+
+---
+
+<br/>
+
+<div align="center" id="-05--active-rd">
+  <img src="./assets/research.svg?v=9" width="100%" alt="05 // Active R&D & Technical Exploration Radar" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h4>🤖 Agentic AI Workflows</h4>
+<p><sub>Autonomous tool-calling, multi-step state machines, and structured output grounding with Gemini &amp; OpenAI.</sub></p>
+</td>
+<td width="25%" align="center">
+<h4>📚 RAG Systems</h4>
+<p><sub>Contextual document chunking, hybrid retrieval, and eliminating hallucinations in clinical/technical workflows.</sub></p>
+</td>
+<td width="25%" align="center">
+<h4>⚡ Distributed Backends</h4>
+<p><sub>Microservice boundary design, event-driven message buses, idempotency, and transactional consistency.</sub></p>
+</td>
+<td width="25%" align="center">
+<h4>🛠️ Developer Experience</h4>
+<p><sub>Automated developer platforms, placement preparation portals (TCS NQT Prep), and CLI tooling (developer-os).</sub></p>
+</td>
+</tr>
+</table>
+
+```
+AGENTIC AI SYSTEMS     ████████████████░░░░  [ACTIVE PRODUCTION TESTING]
+RAG & KNOWLEDGE PIPES  ██████████████████░░  [DEPLOYED IN RECOVERYMATE]
+DISTRIBUTED BACKENDS   ██████████████░░░░░░  [CONTINUOUS EXPLORATION]
+ALGORITHMIC OPTIMIZING ████████████████████  [1800+ PROBLEMS BENCHMARKED]
+```
+<div align="center"><sub>*Status bars indicate active focus and continuous operational investment.*</sub></div>
+
+---
+
+<br/>
+
+<div align="center" id="-06--credentials-and-proof">
+  <img src="./assets/achievements.svg?v=9" width="100%" alt="06 // Credentials & Proof of Work" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>⭐ 4★</h3>
+<b>CODECHEF 4-STAR</b><br/>
+<sub>Competitive programming rating (~1800+) with algorithmic excellence across contests</sub>
+</td>
+<td width="33%" align="center">
+<h3>🧩 1800+</h3>
+<b>PROBLEMS SOLVED</b><br/>
+<sub>Comprehensive problem solving across CodeChef, LeetCode, and technical interview platforms</sub>
+</td>
+<td width="33%" align="center">
+<h3>📜 CERTIFIED</h3>
+<b>ADVANCED PYTHON</b><br/>
+<sub>Certified in Advanced Python Programming by CodeChef</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<h3>🚀 4 SHIPPED</h3>
+<b>PRODUCTION APPS</b><br/>
+<sub>Full-stack flagship applications with public source code, architecture, and live links</sub>
+</td>
+<td width="33%" align="center">
+<h3>🏛️ ACM CHAPTER</h3>
+<b>TECHNICAL LEADERSHIP</b><br/>
+<sub>Active technical collaborator in collegiate ACM initiatives &amp; institutional AI panels</sub>
+</td>
+<td width="33%" align="center">
+<h3>📦 21+ REPOS</h3>
+<b>OPEN-SOURCE PORTFOLIO</b><br/>
+<sub>Repositories spanning AI tools, healthcare apps, POS systems, and developer platforms</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/susatwik"><img src="https://img.shields.io/badge/GitHub-susatwik-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://susatwik-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
-  <a href="https://linkedin.com/in/susatwik/"><img src="https://img.shields.io/badge/LinkedIn-susatwik-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://www.codechef.com/users/susatwik"><img src="https://img.shields.io/badge/CodeChef-Profile-0F172A?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
-  <a href="https://leetcode.com/u/susatwik/"><img src="https://img.shields.io/badge/LeetCode-Profile-0F172A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
-  <a href="mailto:susatwik.manuri@sasi.ac.in"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
+  <!-- DEVELOPER PROFILE PASS // PUBLIC PROFILE METRICS -->
+  <img src="./assets/metrics.svg?v=9" width="100%" alt="Susatwik Manuri — Developer Profile Pass & Public Profile Metrics" />
 </div>
 
-<table>
-  <tr>
-    <td width="34%"><strong>Focus</strong><br />AI systems, backend architecture, product engineering</td>
-    <td width="33%"><strong>Proof</strong><br />4 case studies, 4 repos, 4 live demos</td>
-    <td width="33%"><strong>Competitive programming</strong><br />CodeChef 4★, 1800+ solved, LeetCode</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="assets/hero/terminal-identity.svg" alt="Terminal identity visual showing the build, ship, and prove operating style" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="assets/illustrations/tech-orbit.svg" alt="Tech orbit visual showing product, backend, AI, and delivery systems around a shared core" width="100%" />
-    </td>
-  </tr>
-</table>
-
-## About Me
-
-<div align="center"><em>I build AI systems and full-stack products where the interface, backend, and AI layer all carry the same standard of proof.</em></div>
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>👨‍💻 AI Systems Engineer</strong><br />
-      Full-Stack Developer<br />
-      Backend Engineer
-    </td>
-    <td width="33%">
-      <strong>🏆 Competitive Programming</strong><br />
-      CodeChef 4★<br />
-      1800+ Problems Solved
-    </td>
-    <td width="34%">
-      <strong>🚀 Builder</strong><br />
-      4 Projects<br />
-      4 Repositories<br />
-      4 Live Demos
-    </td>
-  </tr>
-</table>
-
-## Current Technology Focus
-
-<div align="center"><em>These are the technologies I actively build with.</em></div>
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>🔥 Building With</strong><br />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br />
-      <sub>These are the tools I use to build the products I ship.</sub>
-    </td>
-    <td width="33%">
-      <strong>🧠 Learning</strong><br />
-      Agentic AI<br />
-      System Design<br />
-      Cloud Architecture<br />
-      MLOps<br />
-      <sub>Each week I push deeper into systems that make AI products reliable.</sub>
-    </td>
-    <td width="34%">
-      <strong>🚀 Shipping</strong><br />
-      Career Compass<br />
-      RecoveryMate<br />
-      RestaurantFlow<br />
-      Pawdentify<br />
-      <sub>Each project ships with a screenshot, diagram, repository, and live demo.</sub>
-    </td>
-  </tr>
-</table>
-
-## Tech Arsenal
-
-<div align="center"><em>Visible at a glance, grouped by the work it supports.</em></div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>Frontend</strong><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css&theme=dark&perline=5" alt="Frontend skill icons" /><br />
-      <sub>Interfaces for product polish, speed, and clear hierarchy.</sub>
-    </td>
-    <td width="50%">
-      <strong>Backend</strong><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=5" alt="Backend skill icons" /><br />
-      <sub>APIs and services built for stable product workflows.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>Databases</strong><br />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase&theme=dark&perline=5" alt="Database skill icons" /><br />
-      <sub>Persistence layers for state, auth, and product data.</sub>
-    </td>
-    <td width="50%">
-      <strong>AI &amp; GenAI</strong><br />
-      <img src="https://skillicons.dev/icons?i=openai,python,fastapi&theme=dark&perline=5" alt="AI and GenAI skill icons" /><br />
-      <sub>OpenAI APIs, Gemini APIs, RAG systems, and agent workflows.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>DevOps</strong><br />
-      <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,railway,render&theme=dark&perline=5" alt="DevOps skill icons" /><br />
-      <sub>Shipping and deployment across modern cloud surfaces.</sub>
-    </td>
-    <td width="50%">
-      <strong>Tools</strong><br />
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark&perline=5" alt="Tools skill icons" /><br />
-      <sub>Daily tools for building, debugging, and shipping quickly.</sub>
-    </td>
-  </tr>
-</table>
-
-## Engineering DNA
-
-<div align="center"><em>One section, three visuals, one narrative.</em></div>
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="assets/illustrations/tech-radar.svg" alt="Tech radar visual showing the stack grouped by frontend, backend, data, AI, and delivery" width="100%" /><br />
-      <sub>Signals I keep visible in every build.</sub>
-    </td>
-    <td width="33%">
-      <img src="assets/illustrations/backend-architecture.svg" alt="Backend architecture visual showing layers from frontend to delivery" width="100%" /><br />
-      <sub>Backend boundaries, data flow, and delivery stay explicit.</sub>
-    </td>
-    <td width="34%">
-      <img src="assets/illustrations/ai-workflow.svg" alt="AI workflow visual showing input, retrieval, reasoning, tools, state, proof, and delivery" width="100%" /><br />
-      <sub>AI flows stay grounded in retrieval, tooling, and traceable output.</sub>
-    </td>
-  </tr>
-</table>
-
-- Algorithms taught me edge cases.
-- Backend work taught me service boundaries.
-- AI product work taught me to keep outputs grounded.
-
-## Projects
-
-<div align="center"><em>Screenshot-first case studies with repo and demo proof.</em></div>
-
-<details id="career-compass" open>
-<summary><strong>Career Compass</strong> · resume analysis and interview prep</summary>
+<details>
+<summary align="center"><b>📊 Expand Live GitHub Operations Telemetry &amp; Language Breakdown</b></summary>
+<br/>
 
 <div align="center">
-      <img src="assets/screenshots/hirescale-dashboard.png" alt="Career Compass dashboard showing resume analysis and interview preparation workflows" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=00d2ff&text_color=94a3b8&icon_color=00f5a0" alt="Susatwik Manuri's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b16&title_color=00d2ff&text_color=94a3b8" alt="Susatwik Manuri's Top Languages" />
 </div>
-
-- Stack: React 18, Vite 5, Supabase Auth, Edge Functions, Postgres RLS
-- Proof: [screenshot](assets/screenshots/hirescale-dashboard.png) · [diagram](diagrams/hirescale.mmd) · [repo](https://github.com/susatwik/stateful-interview-system) · [demo](https://stateful-interview-system.vercel.app)
-- What it demonstrates: document intake, scoring logic, auth-backed persistence, and structured feedback.
 
 </details>
 
-<details id="recoverymate">
-<summary><strong>RecoveryMate</strong> · recovery planning and PDF workflows</summary>
+---
 
-<div align="center">
-      <img src="assets/screenshots/recovermate-dashboard.png" alt="RecoveryMate dashboard showing recovery planning and document extraction workflows" width="80%" />
+<br/>
+
+<div align="center" id="-07--communication-channel">
+  <img src="./assets/connect.svg?v=9" width="100%" alt="07 // Communication Channel — Let's Build What's Next" />
 </div>
 
-- Stack: Vite React client, Express server, Multer, pdf-parse, @google/genai, MongoDB, Mongoose
-- Proof: [screenshot](assets/screenshots/recovermate-dashboard.png) · [diagram](diagrams/recovermate.mmd) · [repo](https://github.com/susatwik/RecoverMate) · [demo](https://recovermate-web.onrender.com)
-- What it demonstrates: PDF ingestion, AI-assisted extraction, server-side persistence, and workflow orchestration.
-
-</details>
-
-<details id="restaurantflow">
-<summary><strong>RestaurantFlow</strong> · order and kitchen coordination</summary>
+<br/>
 
 <div align="center">
-      <img src="assets/screenshots/restaurantflow-dashboard.png" alt="RestaurantFlow dashboard showing order coordination and kitchen workflow management" width="80%" />
+
+### LET'S BUILD WHAT'S NEXT.
+*Open for full-stack product engineering, AI systems architecture, and distributed engineering collaborations.*
+
+<br/>
+
+| CHANNEL | IDENTIFIER | PURPOSE | ACTION LINK |
+| :--- | :--- | :--- | :---: |
+| 🌐 **Portfolio** | `susatwik-portfolio.vercel.app` | 3D Interactive Showcase & Deployed Case Studies | [**Launch Portfolio ➔**](https://susatwik-portfolio.vercel.app) |
+| 💼 **LinkedIn** | `in/susatwik` | Professional connections, engineering updates & talks | [**Connect on LinkedIn ➔**](https://linkedin.com/in/susatwik/) |
+| 🐙 **GitHub** | `@susatwik` | Open-source repositories, case studies & systems | [**Explore Repositories ➔**](https://github.com/susatwik) |
+| ⭐ **CodeChef** | `users/susatwik` | 4★ Competitive programming contest history & solutions | [**View CodeChef ➔**](https://www.codechef.com/users/susatwik) |
+| 🧩 **LeetCode** | `u/susatwik` | Algorithmic practice & data structures track record | [**View LeetCode ➔**](https://leetcode.com/u/susatwik/) |
+| 📬 **Direct Email** | `susatwik.manuri@sasi.ac.in` | Direct technical outreach, projects & opportunities | [**Transmit Dispatch ➔**](mailto:susatwik.manuri@sasi.ac.in) |
+
 </div>
 
-- Stack: dashboard UI, order flow, kitchen board, status updates
-- Proof: [screenshot](assets/screenshots/restaurantflow-dashboard.png) · [diagram](diagrams/restaurantflow.mmd) · [repo](https://github.com/susatwik/Restaurant-Ordering-Kitchen-Management-Platform) · [demo](https://restaurant-ordering-kitchen.vercel.app)
-- What it demonstrates: operational state tracking, handoff visibility, and service coordination.
+<br/>
 
-</details>
-
-<details id="pawdentify">
-<summary><strong>Pawdentify</strong> · pet records and reminders</summary>
+---
 
 <div align="center">
-      <img src="assets/screenshots/pawdentify-dashboard.png" alt="Pawdentify dashboard showing pet records, visits, and reminder workflows" width="80%" />
+  <sub>⚡ From Algorithms to Autonomous Systems ⚡</sub><br/>
+  <sub>© 2026 Susatwik Manuri. Engineered with precision.</sub>
 </div>
-
-- Stack: pet records UI, visit timeline, reminders
-- Proof: [screenshot](assets/screenshots/pawdentify-dashboard.png) · [diagram](diagrams/pawdentify.mmd) · [repo](https://github.com/susatwik/pawdentify) · [demo](https://pawdentify-frontend.vercel.app)
-- What it demonstrates: workflow organization for recurring care tasks and record keeping.
-
-</details>
-
-<div align="center">
-  <img src="assets/dividers/divider-wave.svg" alt="Section divider between projects and metrics" width="100%" />
-</div>
-
-## Metrics dashboard
-
-<div align="center"><em>Small set of numbers, high signal only.</em></div>
-
-<div align="center">
-  <img src="assets/illustrations/tech-grid.svg" alt="Metrics dashboard framed as a dark product analytics surface" width="100%" />
-</div>
-
-<table>
-  <tr>
-    <td width="33%"><strong>Showcase projects</strong><br />4</td>
-    <td width="33%"><strong>Public source repos</strong><br />4</td>
-    <td width="34%"><strong>Live demos</strong><br />4</td>
-  </tr>
-  <tr>
-    <td><strong>CodeChef</strong><br />4★</td>
-    <td><strong>Problems solved</strong><br />1800+</td>
-    <td><strong>Architecture diagrams</strong><br />4</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=susatwik&show_icons=true&theme=tokyonight&hide_border=true&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&bg_color=0F172A" alt="GitHub stats for Susatwik Manuri" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susatwik&layout=compact&theme=tokyonight&hide_border=true&title_color=7DD3FC&text_color=E2E8F0&bg_color=0F172A" alt="Top languages used by Susatwik Manuri" />
-    </td>
-  </tr>
-</table>
-
-## Connect
-
-<div align="center"><em>Open to product, AI, and systems work.</em></div>
-
-<div align="center">
-  <a href="https://susatwik-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/susatwik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/susatwik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:susatwikmanuri@sasi.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<div align="center">
-  <img src="assets/footer/footer-glow.svg" alt="Elegant footer glow closing the portfolio" width="100%" />
-</div>
-
-<div align="center">
-  <strong>Susatwik Manuri</strong><br />
-  From Algorithms to Autonomous Systems<br />
-  Product engineering, AI systems, and backend delivery with proof attached.
-</div>
-
-Daily update - Thu Jun 25 23:51:15 IST 2026
-
-Daily update - Fri Jun 26 22:32:44 IST 2026
-
-Daily update - Sun Jul  5 23:27:38 IST 2026
-
-Daily update - Sun Jul  5 23:30:54 IST 2026
