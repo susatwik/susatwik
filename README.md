@@ -9,7 +9,7 @@
 
 <div align="center">
   <!-- SYSTEM INITIALIZATION HERO WITH SUSATWIK MANURI PORTRAIT -->
-  <img src="./assets/hero.svg?v=9" width="100%" alt="Susatwik Manuri — System Initialization Console: AI Systems Engineer & Full-Stack Developer" />
+  <img src="./assets/hero.svg?v=10" width="100%" alt="Susatwik Manuri — System Initialization Console: AI Systems Engineer & Full-Stack Developer" />
 </div>
 
 <div align="center">
@@ -35,17 +35,19 @@
 <br/>
 
 <div align="center" id="-01--system-overview">
-  <img src="./assets/about.svg?v=9" width="100%" alt="01 // System Overview & Identity — About The Engineer" />
+  <!-- 01 // SYSTEM OVERVIEW & IDENTITY WITH LARGE SEATED PHOTOGRAPH -->
+  <img src="./assets/about.svg?v=10" width="100%" alt="01 // System Overview & Identity — About The Engineer: Susatwik Manuri" />
 </div>
 
+<details>
+<summary align="center"><b>🔍 Expand Detailed Builder Identity &amp; Architectural Tenets</b></summary>
 <br/>
 
 <table>
 <tr>
-<td width="36%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<!-- ACTUAL SEATED PHOTOGRAPH // SUSATWIK MANURI -->
-<img src="./assets/susatwik-seated.png" width="100%" alt="Susatwik Manuri — AI Systems Engineer & Full-Stack Developer" style="border-radius: 12px;" />
+<img src="./assets/susatwik-seated.png" width="100%" alt="Susatwik Manuri — Full Standing / Seated Professional Photo" style="border-radius: 12px;" />
 
 ```yaml
 ENGINEER: Susatwik Manuri
@@ -55,11 +57,11 @@ SPECIALIZATION: Backend Engineer
 DEPARTMENT: CSE
 INSTITUTION: Sasi Institute of Technology & Engineering
 LOCATION: Tadepalligudem, Andhra Pradesh, India
-PROFILE_STATUS: Active Builder
+STATUS: Active Builder
 ```
 
 </td>
-<td width="64%" valign="top">
+<td width="60%" valign="top">
 
 ### ⬡ THE BUILDER IDENTITY
 - **Systems-Grounded AI Engineering**: I build software where the user interface, backend microservices, and AI model orchestration carry the exact same standard of engineering proof.
@@ -69,21 +71,26 @@ PROFILE_STATUS: Active Builder
 
 <br/>
 
-### ⬡ CURRENT MISSION & EXECUTION
+### ⬡ PRODUCTION STANDARDS & EXECUTION
 - **Production Proof Standards**: Every major flagship system I build ships with an architecture diagram, public source code, and a live production deployment.
 - **Algorithmic Muscle**: Solved over **1800+ algorithmic challenges** across CodeChef and LeetCode, instilling rigorous attention to time complexity, concurrency, and memory efficiency.
 - **Active Technical Focus**: Pushing the boundaries of stateful agentic workflows, multi-station event coordination, and clinical data ingestion.
 
+<!-- High-resolution reference links -->
+<sub>Reference assets: <a href="./assets/susatwik-portrait.png">Portrait Photo</a> &nbsp;·&nbsp; <a href="./assets/susatwik-seated.png">Seated Photo</a></sub>
+
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
 <br/>
 
 <div align="center" id="-02--engineering-radar">
-  <img src="./assets/stack.svg?v=9" width="100%" alt="02 // Technology Radar & Orbital Systems Stack" />
+  <img src="./assets/stack.svg?v=10" width="100%" alt="02 // Technology Radar & Orbital Systems Stack" />
 </div>
 
 <br/>
@@ -154,7 +161,7 @@ PROFILE_STATUS: Active Builder
 <br/>
 
 <div align="center" id="-03--featured-deployments">
-  <img src="./assets/projects.svg?v=9" width="100%" alt="03 // Selected Deployments & Systems — Featured Work" />
+  <img src="./assets/projects.svg?v=10" width="100%" alt="03 // Selected Deployments & Systems — Featured Work" />
 </div>
 
 <br/>
@@ -247,7 +254,7 @@ PROFILE_STATUS: Active Builder
 <br/>
 
 <div align="center" id="-04--engineering-journey">
-  <img src="./assets/journey.svg?v=9" width="100%" alt="04 // Engineering Trajectory & Timeline" />
+  <img src="./assets/journey.svg?v=10" width="100%" alt="04 // Engineering Trajectory & Timeline" />
 </div>
 
 <br/>
@@ -278,7 +285,7 @@ PROFILE_STATUS: Active Builder
 <br/>
 
 <div align="center" id="-05--active-rd">
-  <img src="./assets/research.svg?v=9" width="100%" alt="05 // Active R&D & Technical Exploration Radar" />
+  <img src="./assets/research.svg?v=10" width="100%" alt="05 // Active R&D & Technical Exploration Radar" />
 </div>
 
 <br/>
@@ -317,7 +324,7 @@ ALGORITHMIC OPTIMIZING ███████████████████
 <br/>
 
 <div align="center" id="-06--credentials-and-proof">
-  <img src="./assets/achievements.svg?v=9" width="100%" alt="06 // Credentials & Proof of Work" />
+  <img src="./assets/achievements.svg?v=10" width="100%" alt="06 // Credentials & Proof of Work" />
 </div>
 
 <br/>
@@ -365,7 +372,7 @@ ALGORITHMIC OPTIMIZING ███████████████████
 
 <div align="center">
   <!-- DEVELOPER PROFILE PASS // PUBLIC PROFILE METRICS -->
-  <img src="./assets/metrics.svg?v=9" width="100%" alt="Susatwik Manuri — Developer Profile Pass & Public Profile Metrics" />
+  <img src="./assets/metrics.svg?v=10" width="100%" alt="Susatwik Manuri — Developer Profile Pass & Public Profile Metrics" />
 </div>
 
 <details>
@@ -385,7 +392,7 @@ ALGORITHMIC OPTIMIZING ███████████████████
 <br/>
 
 <div align="center" id="-07--communication-channel">
-  <img src="./assets/connect.svg?v=9" width="100%" alt="07 // Communication Channel — Let's Build What's Next" />
+  <img src="./assets/connect.svg?v=10" width="100%" alt="07 // Communication Channel — Let's Build What's Next" />
 </div>
 
 <br/>
