@@ -1,21 +1,24 @@
-# DEVELOPER COMMAND CENTER v10.0 — Cinematic Photography & Visual Prominence Release
+# DEVELOPER PORTFOLIO v11.0 — Premium Visual Portfolio Redesign
 
 Deploy `README.md` and the entire `assets/` directory into your GitHub profile repository (`susatwik/susatwik`).
-Image links in the README use `?v=10` cache-busting parameters to ensure immediate visual invalidation across GitHub's CDN and Camo image proxy.
+Image links in the README use `?v=11` cache-busting parameters to ensure immediate visual invalidation across GitHub's CDN and Camo image proxy.
 
 ---
 
-### What Was Refined in v10.0 (Cinematic Photography Architecture):
+### Key Architectural & Visual Upgrades in v11.0:
 
-1. **Large Hero Standing Portrait**:
-   - `assets/hero.svg`: Upgraded to 1200×640 canvas. The authentic standing portrait (`assets/susatwik-portrait.png`) occupies a prominent 480×565px vertical frame (~42% of hero width) with ambient radial cyan halos, concentric rotating HUD rings, and a floating holographic operator badge.
+1. **Hero Operations Console (`assets/hero.svg?v=11`)**:
+   - Fixed text overlap completely: every metric (`CODECHEF 4★`, `1800+ SOLVED`, `4 SHIPPED APPS`, `CSE @ SASI`) is housed in an independent 136×66px card with 30px+ breathing room.
+   - Distinct visual hierarchy: 92px bold name headline, core competency capsule, mission statement, and standing portrait frame occupying 40% of hero width.
 
-2. **Large Seated Photograph as Second Hero (Section 01)**:
-   - `assets/about.svg`: Redesigned as a complete 1200×660 cinematic card. The authentic full-body seated photograph (`assets/susatwik-seated.png`) occupies 460px of width on the left side, preserving the complete composition (body, crossed legs, arms, chair, shoes) within a high-tech glass HUD frame.
-   - Right side showcases Susatwik's builder identity, architectural narrative, and 3 foundational pillars (Algorithmic Rigor, Production Full-Stack, Agentic AI & RAG).
+2. **01 // The Engineer & Builder Identity (`assets/about.svg?v=11`)**:
+   - 1200×660 cinematic card pairing Susatwik's authentic full-body seated photograph (`assets/susatwik-seated.png`) on the left (preserving the complete silhouette: chair, body, crossed legs, arms, shoes) with 3 foundational architectural pillar cards on the right (Algorithmic Rigor, Production Full-Stack, Agentic AI & RAG).
 
-3. **Streamlined Developer Profile Pass**:
-   - `assets/metrics.svg`: Converted to an ultra-wide 1200×260 telemetry pass without redundant tiny chips, keeping visual focus squarely on the two large photographic masterworks.
+3. **02 // Engine Room & Orbital Stack (`assets/stack.svg?v=11`)**:
+   - Complete redesign inspired by the reference: left side features an orbital system diagram with central hexagonal `SM` core and orbiting technology nodes (`TypeScript`, `Python`, `React`, `Node.js`, `PostgreSQL`, `GenAI / RAG`); right side features structured category cards (Languages, Frontend, Backend & Data).
 
-4. **Zero Reference Person Remnants & Clean Telemetry**:
-   - Fully sanitized of all old reference strings. Zero private GPS coordinates or pseudo-credential claims. Clean, operational, developer-centric terminology throughout.
+4. **03 // Selected Work (2-Column Visual Card Grid)**:
+   - Elevated from a plain table into high-impact 2-column visual cards for flagship systems: Career Compass, RecoveryMate, RestaurantFlow, and Pawdentify.
+
+5. **04–07 // Timeline, R&D, Proof of Work & Interactive Connect**:
+   - Structured milestones, 4 R&D domain cards, proof of work grid, and high-contrast clickable Markdown connection buttons.

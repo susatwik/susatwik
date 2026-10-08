@@ -1,114 +1,147 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Susatwik Manuri — Technology Radar">
-  <title>Engineering Stack &amp; Technology Radar</title>
-  <desc>Multi-tiered radar visualization of Susatwik Manuri's production technology stack across Languages, AI/ML, Backend, Databases, and Cloud surfaces.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="Susatwik Manuri — Engine Room &amp; Technology Stack">
+  <title>02 // My Engine Room — Technology Stack</title>
+  <desc>Orbital technology radar and production category matrix for Susatwik Manuri.</desc>
   <defs>
     <linearGradient id="stack-border" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#00f5a0" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#00d2ff" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#1e365d" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00f5a0" stop-opacity="0.9"/>
     </linearGradient>
-    <radialGradient id="stack-center-glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.2"/>
+    <radialGradient id="orbit-halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#0369a1" stop-opacity="0.1"/>
       <stop offset="100%" stop-color="#070b16" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="stack-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#14263d" stroke-width="0.7" opacity="0.3"/>
+    </pattern>
     <clipPath id="stack-clip">
-      <rect x="1" y="1" width="1198" height="518" rx="20"/>
+      <rect x="1" y="1" width="1198" height="678" rx="22"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#stack-clip)">
-    <rect x="1" y="1" width="1198" height="518" rx="20" fill="#070b16" stroke="url(#stack-border)" stroke-width="1.5"/>
-    <rect x="2" y="2" width="1196" height="516" fill="url(#stack-center-glow)"/>
+    <!-- Base Card Fill -->
+    <rect x="1" y="1" width="1198" height="678" rx="22" fill="#070b16" stroke="url(#stack-border)" stroke-width="1.5"/>
+    <rect x="2" y="2" width="1196" height="676" fill="url(#stack-grid)"/>
 
-    <!-- Header info -->
-    <rect x="54" y="24" width="8" height="8" fill="#00d2ff" rx="1.5"/>
-    <text x="72" y="32" font-family="ui-monospace, 'SF Mono', monospace" font-size="11.5" font-weight="600" fill="#94a3b8" letter-spacing="2">02 // MULTI-TIERED OPERATIONAL STACK</text>
-    <text x="54" y="72" font-family="system-ui, sans-serif" font-size="32" font-weight="800" fill="#ffffff">TECHNOLOGY RADAR</text>
+    <!-- Header Section -->
+    <text x="44" y="38" font-family="ui-monospace, monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="1.6">02 / MY ENGINE ROOM</text>
+    <text x="42" y="94" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="-0.5">TOOLS CHANGE. CURIOSITY DOESN’T.</text>
+    <text x="44" y="125" font-family="ui-monospace, monospace" font-size="11" font-weight="600" fill="#38bdf8" letter-spacing="1.6">LANGUAGES / SYSTEMS / INTELLIGENCE</text>
+    <path d="M 44 142 L 1156 142" stroke="#1a2d47" stroke-width="1"/>
 
-    <!-- Radar Coordinate Center at (600, 290) -->
-    <g transform="translate(600, 290)">
-      <!-- Orbits -->
-      <circle cx="0" cy="0" r="200" fill="none" stroke="#193557" stroke-width="1.2" stroke-dasharray="8 6"/>
-      <circle cx="0" cy="0" r="145" fill="none" stroke="#1d4575" stroke-width="1.2"/>
-      <circle cx="0" cy="0" r="90" fill="none" stroke="#0284c7" stroke-width="1.4" stroke-dasharray="4 4"/>
-      <circle cx="0" cy="0" r="40" fill="#082f49" stroke="#00d2ff" stroke-width="2"/>
+    <!-- ==================== LEFT SIDE: ORBITAL SYSTEM DIAGRAM ==================== -->
+    <g transform="translate(44, 160)">
+      <rect x="0" y="0" width="500" height="450" rx="16" fill="#091424" stroke="#1d385c" stroke-width="1"/>
+      <ellipse cx="250" cy="225" rx="220" ry="180" fill="url(#orbit-halo)"/>
 
-      <!-- Core Label -->
-      <text x="0" y="-4" font-family="ui-monospace, 'SF Mono', monospace" font-size="11" font-weight="800" fill="#f8fafc" text-anchor="middle">ALGO</text>
-      <text x="0" y="12" font-family="ui-monospace, 'SF Mono', monospace" font-size="9" font-weight="700" fill="#00f5a0" text-anchor="middle">1800+ SOLVED</text>
+      <!-- Orbital Rings -->
+      <ellipse cx="250" cy="225" rx="210" ry="160" fill="none" stroke="#1e3a60" stroke-width="1.2" stroke-dasharray="6 8"/>
+      <ellipse cx="250" cy="225" rx="160" ry="115" fill="none" stroke="#00d2ff" stroke-width="1.5" stroke-dasharray="12 16" opacity="0.4"/>
+      <ellipse cx="250" cy="225" rx="105" ry="70" fill="none" stroke="#00f5a0" stroke-width="1.2" opacity="0.35"/>
 
-      <!-- Crosshair Axes -->
-      <line x1="-220" y1="0" x2="220" y2="0" stroke="#152e4d" stroke-width="1"/>
-      <line x1="0" y1="-210" x2="0" y2="210" stroke="#152e4d" stroke-width="1"/>
+      <!-- Central Hexagonal Core: SM (Susatwik Manuri) -->
+      <polygon points="250,185 285,205 285,245 250,265 215,245 215,205" fill="#0c1e34" stroke="#00d2ff" stroke-width="2"/>
+      <text x="250" y="233" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">SM</text>
 
-      <!-- Layer 1: Core Languages (r ~ 90) -->
-      <g transform="translate(0, -90)">
-        <rect x="-45" y="-12" width="90" height="24" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">TypeScript</text>
+      <!-- Orbiting Nodes / Tech Pills -->
+      <!-- Node: TypeScript -->
+      <g transform="translate(140, 100)">
+        <rect x="-42" y="-14" width="84" height="28" rx="14" fill="#0b172a" stroke="#00d2ff" stroke-width="1.2"/>
+        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00d2ff" text-anchor="middle">TypeScript</text>
       </g>
-      <g transform="translate(75, 45)">
-        <rect x="-35" y="-12" width="70" height="24" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
+
+      <!-- Node: Python -->
+      <g transform="translate(360, 100)">
+        <rect x="-35" y="-14" width="70" height="28" rx="14" fill="#0b172a" stroke="#38bdf8" stroke-width="1.2"/>
         <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">Python</text>
       </g>
-      <g transform="translate(-75, 45)">
-        <rect x="-45" y="-12" width="90" height="24" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">JavaScript</text>
+
+      <!-- Node: React -->
+      <g transform="translate(80, 225)">
+        <rect x="-32" y="-14" width="64" height="28" rx="14" fill="#0b172a" stroke="#00d2ff" stroke-width="1.2"/>
+        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">React</text>
       </g>
 
-      <!-- Layer 2: Frontend & Backend Execution (r ~ 145) -->
-      <g transform="translate(-115, -90)">
-        <rect x="-40" y="-12" width="80" height="24" rx="4" fill="#0f172a" stroke="#00f5a0" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">React 18</text>
-      </g>
-      <g transform="translate(115, -90)">
-        <rect x="-40" y="-12" width="80" height="24" rx="4" fill="#0f172a" stroke="#00f5a0" stroke-width="1"/>
+      <!-- Node: Node.js -->
+      <g transform="translate(420, 225)">
+        <rect x="-36" y="-14" width="72" height="28" rx="14" fill="#0b172a" stroke="#00f5a0" stroke-width="1.2"/>
         <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">Node.js</text>
       </g>
-      <g transform="translate(145, 10)">
-        <rect x="-40" y="-12" width="80" height="24" rx="4" fill="#0f172a" stroke="#00f5a0" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">Next.js</text>
-      </g>
-      <g transform="translate(-145, 10)">
-        <rect x="-40" y="-12" width="80" height="24" rx="4" fill="#0f172a" stroke="#00f5a0" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">Express</text>
-      </g>
-      <g transform="translate(0, 145)">
-        <rect x="-55" y="-12" width="110" height="24" rx="4" fill="#0f172a" stroke="#00f5a0" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">MongoDB / SQL</text>
+
+      <!-- Node: PostgreSQL -->
+      <g transform="translate(150, 345)">
+        <rect x="-45" y="-14" width="90" height="28" rx="14" fill="#0b172a" stroke="#38bdf8" stroke-width="1.2"/>
+        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">PostgreSQL</text>
       </g>
 
-      <!-- Layer 3: AI & Cloud Systems (r ~ 200) -->
-      <g transform="translate(-170, -115)">
-        <rect x="-55" y="-12" width="110" height="24" rx="4" fill="#091322" stroke="#a855f7" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#c084fc" text-anchor="middle">Google GenAI</text>
+      <!-- Node: GenAI / RAG -->
+      <g transform="translate(350, 345)">
+        <rect x="-48" y="-14" width="96" height="28" rx="14" fill="#0b172a" stroke="#c084fc" stroke-width="1.2"/>
+        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#c084fc" text-anchor="middle">GenAI · RAG</text>
       </g>
-      <g transform="translate(170, -115)">
-        <rect x="-50" y="-12" width="100" height="24" rx="4" fill="#091322" stroke="#a855f7" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#c084fc" text-anchor="middle">OpenAI APIs</text>
-      </g>
-      <g transform="translate(180, 85)">
-        <rect x="-50" y="-12" width="100" height="24" rx="4" fill="#091322" stroke="#38bdf8" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">RAG Systems</text>
-      </g>
-      <g transform="translate(-180, 85)">
-        <rect x="-45" y="-12" width="90" height="24" rx="4" fill="#091322" stroke="#38bdf8" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#38bdf8" text-anchor="middle">Supabase</text>
-      </g>
-      <g transform="translate(0, -200)">
-        <rect x="-55" y="-12" width="110" height="24" rx="4" fill="#091322" stroke="#00f5a0" stroke-width="1"/>
-        <text x="0" y="4" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#00f5a0" text-anchor="middle">Vercel / Cloud</text>
-      </g>
+
+      <!-- Bottom Tag -->
+      <text x="250" y="420" font-family="ui-monospace, monospace" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.6" text-anchor="middle">CODE IS THE TOOL. SYSTEMS ARE THE PROOF.</text>
     </g>
 
-    <!-- Left & Right Legend Labels -->
-    <g transform="translate(54, 460)">
-      <circle cx="6" cy="0" r="5" fill="#00d2ff"/>
-      <text x="18" y="4" font-family="ui-monospace, monospace" font-size="11" fill="#94a3b8">CORE FOUNDATION</text>
-      <circle cx="170" cy="0" r="5" fill="#00f5a0"/>
-      <text x="182" y="4" font-family="ui-monospace, monospace" font-size="11" fill="#94a3b8">FULLSTACK &amp; RUNTIME</text>
-      <circle cx="350" cy="0" r="5" fill="#c084fc"/>
-      <text x="362" y="4" font-family="ui-monospace, monospace" font-size="11" fill="#94a3b8">AI &amp; AGENTIC WORKFLOWS</text>
+    <!-- ==================== RIGHT SIDE: STACK CATEGORIES ==================== -->
+    <g transform="translate(580, 160)">
+      <!-- Row 1: Languages -->
+      <text x="0" y="24" font-family="ui-monospace, monospace" font-size="11.5" font-weight="700" fill="#94a3b8" letter-spacing="1.6">01 / CORE LANGUAGES</text>
+      <g transform="translate(0, 38)">
+        <rect x="0" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">PRIMARY</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#00d2ff">TypeScript</text>
+
+        <rect x="195" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">DATA &amp; AI</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#38bdf8">Python</text>
+
+        <rect x="390" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">ALGORITHMS</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#00f5a0">Java · SQL</text>
+      </g>
+
+      <!-- Row 2: Frontend & Runtime -->
+      <text x="0" y="142" font-family="ui-monospace, monospace" font-size="11.5" font-weight="700" fill="#94a3b8" letter-spacing="1.6">02 / FRONTEND &amp; RUNTIME</text>
+      <g transform="translate(0, 156)">
+        <rect x="0" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">INTERFACES</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#ffffff">React 18</text>
+
+        <rect x="195" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">SSR / APP</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#00d2ff">Next.js</text>
+
+        <rect x="390" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">3D GRAPHICS</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#c084fc">Three.js</text>
+      </g>
+
+      <!-- Row 3: Backend, Data & AI -->
+      <text x="0" y="260" font-family="ui-monospace, monospace" font-size="11.5" font-weight="700" fill="#94a3b8" letter-spacing="1.6">03 / BACKEND, DATA &amp; AI SYSTEMS</text>
+      <g transform="translate(0, 274)">
+        <rect x="0" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">APIs &amp; QUEUES</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#00f5a0">Node · FastAPI</text>
+
+        <rect x="195" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">RELATIONAL &amp; DOC</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#38bdf8">Postgres · Mongo</text>
+
+        <rect x="390" y="0" width="175" height="58" rx="8" fill="#0b1626" stroke="#1d385c" stroke-width="1"/>
+        <text x="18" y="24" font-family="ui-monospace, monospace" font-size="9" fill="#64748b">INTELLIGENCE</text>
+        <text x="18" y="44" font-family="system-ui, sans-serif" font-size="17" font-weight="800" fill="#c084fc">GenAI · RAG</text>
+      </g>
+
+      <!-- Footer Tag -->
+      <text x="0" y="380" font-family="ui-monospace, monospace" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.6">ALGORITHMS / ARCHITECTURE / EXECUTION / REPEAT</text>
     </g>
-    <text x="980" y="464" font-family="ui-monospace, monospace" font-size="11" fill="#64748b">RADAR: OPERATIONAL</text>
+
+    <!-- Bottom Global Strip -->
+    <path d="M 44 635 L 1156 635" stroke="#172c47" stroke-width="1"/>
+    <text x="44" y="658" font-family="ui-monospace, monospace" font-size="10.5" fill="#475569" letter-spacing="1.2">SYSTEM SPECIFICATION // 1800+ SOLVED PROBLEMS · 21+ REPOSITORIES · CODECHEF 4★</text>
   </g>
 </svg>
